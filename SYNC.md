@@ -6,33 +6,35 @@ permalink: /sync/
 
 # GitHub automatic sync
 
-这个仓库使用 macOS `launchd` 自动检查本地文件变化，并同步到 GitHub 的 `main` 分支。
+This repository uses macOS `launchd` to check for local file changes and sync them to the GitHub `main` branch.
 
-同步流程：
+The sync process:
 
-1. 提交本地笔记和配置改动；
-2. 从 `origin/main` 拉取远端改动并 rebase；
-3. 推送到 GitHub。
+1. Detects local file changes.
+2. Commits them with an automatic-sync commit message.
+3. Fetches the latest `origin/main`.
+4. Rebases local `main` onto `origin/main`.
+5. Pushes the result to GitHub.
 
-脚本不会强制推送，也不会覆盖本地文件。遇到 rebase 冲突或远端认证失败时，本次同步会停止，并将结果写入：
+The script never force-pushes and never overwrites local files. If a rebase conflict or GitHub authentication failure occurs, the run stops and records the result in:
 
 `~/Library/Logs/PHC/github-sync.log`
 
-## 安装或重新安装每日任务
+## Install or reinstall the automatic task
 
 ```bash
 ./scripts/install-daily-sync.sh
 ```
 
-当前任务每 30 秒检查一次本地文件变化；发现变化后会自动提交并推送。
+The task checks for local changes every 30 seconds and automatically commits and pushes when it finds any.
 
-## 手动测试
+## Manual test
 
 ```bash
 ./scripts/sync-with-github.sh
 tail -f ~/Library/Logs/PHC/github-sync.log
 ```
 
-脚本要求本机已经配置好 GitHub SSH 认证，并且当前远程地址是：
+The script requires GitHub SSH authentication and this remote repository:
 
 `git@github.com:lloyd-c137/Puzzle-of-Human-Civilization.git`
