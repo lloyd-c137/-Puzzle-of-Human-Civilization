@@ -14,6 +14,91 @@ If you want to do a **“liquid type test” experiment**, meaning you are given
 
 Based on Zumdahl, the core knowledge comes mainly from **Chapter 1**, with a few optional ideas from Chapters 4, 10–11, and Appendix 3. The book itself gives almost exactly this experiment in Section **1.9 Density**, where an unknown liquid is identified by measuring its mass and volume and comparing the calculated density with reference values.
 
+## Safety gate: decide whether testing is allowed
+
+This protocol is only for a **classroom or supervised laboratory sample that is known to come from a defined list of candidate liquids**. It is not a procedure for identifying an unlabeled bottle found at home, in a storage room, or in an unknown location.
+
+### If the liquid is genuinely unknown
+
+Stop. Do not open it, smell it, taste it, touch it, heat it, ignite it, shake it, mix it with water or another chemical, or pour it down a drain. Keep people away from leaks or fumes and contact a teacher, laboratory supervisor, institutional safety office, or local hazardous-materials service. Do not transport a leaking or visibly hazardous container yourself.
+
+OSHA recommends a risk assessment, label/SDS review, trained supervision, suitable ventilation, and appropriate PPE before handling chemical substances, including unknown hazards. See [OSHA laboratory chemical hygiene guidance](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1450AppA). Never use smell as an identification method: an odor is not a reliable measure of safety. The [ACS student laboratory safety guide](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/safety-in-academic-chemistry-laboratories-students.pdf) also states that chemicals must not be tasted and should not be directly sniffed.
+
+### Preconditions for the classroom version
+
+Proceed only when all of these are true:
+
+- a qualified supervisor has approved the activity;
+- the candidate list and relevant SDS information are available;
+- the sample can be handled in an appropriate laboratory, preferably a fume hood when vapors are possible;
+- goggles, suitable gloves, a lab coat or apron, secondary containment, and a waste plan are ready;
+- there is no open flame, heating, mouth pipetting, or improvised household equipment.
+
+If any condition is missing, the correct result is **not tested**.
+
+## Experimental design: density screening
+
+### Research question
+
+> Which candidate liquid is most consistent with the measured density of the sample at the measurement temperature?
+
+This wording matters. Density screening can support a candidate identity; it cannot prove the identity of an arbitrary unknown liquid.
+
+### Variables
+
+- **Dependent variable:** calculated density, (D).
+- **Measured quantities:** liquid mass, liquid volume, and temperature.
+- **Controlled conditions:** balance, glassware, temperature, reading method, and number of trials.
+- **Reference data:** candidate densities measured or reported at the same temperature.
+
+### Equipment
+
+Use only equipment approved by the supervisor: a balance, a clean dry density vial or stoppered container, suitable volume-measuring glassware, a thermometer, secondary containment, labels, PPE, and a compatible waste container. A sealed density vial is preferable for volatile samples; do not leave a potentially hazardous or volatile liquid exposed in an open cylinder.
+
+### Procedure
+
+1. Record the sample code, source information, candidate list, and temperature. Do not open a sample that has not passed the safety gate.
+2. Confirm that the balance and volume glassware are appropriate and clean. Tare the vessel, or record the empty-vessel mass.
+3. Under supervision, transfer a preselected known volume, such as 10.00 mL or 25.00 mL, using the approved equipment. Read the meniscus at eye level when an open measurement is permitted.
+4. Record the mass of the vessel plus liquid. Do not return the sample to the original bottle.
+5. Calculate the liquid mass and density.
+6. Repeat the measurement at least three times using the same method. Stop if there is a leak, unexpected reaction, strong vapor, pressure, heating, or other abnormal observation.
+7. Dispose of the sample according to the supervisor's waste instructions. Never pour an unidentified liquid into a sink.
+
+### Data table
+
+| Trial | Temperature (°C) | Volume (mL) | Empty vessel (g) | Vessel + liquid (g) | Liquid mass (g) | Density (g/mL) |
+|---|---:|---:|---:|---:|---:|---:|
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+
+### Calculations
+
+$$m_{\text{liquid}}=m_{\text{vessel+liquid}}-m_{\text{empty vessel}}$$
+
+$$D=\frac{m_{\text{liquid}}}{V}$$
+
+Calculate the mean density and record the spread of the repeated results. Keep only the precision supported by the balance and volume glassware.
+
+### Decision rule
+
+1. Compare the mean experimental density with the candidate reference values at the same temperature.
+2. Include measurement uncertainty rather than choosing the numerically closest value automatically.
+3. Report **“consistent with Candidate X”** only when the candidate interval is distinguishable from the alternatives.
+4. Report **“inconclusive”** when two candidates overlap within experimental uncertainty, the sample may be a mixture, or the temperature/reference conditions do not match.
+5. If identity matters, use professional instrumental analysis such as FTIR, refractive-index measurement, or GC-MS through a qualified laboratory. Do not improvise chemical spot tests on a genuinely unknown sample.
+
+### What the result means
+
+| Result | Appropriate conclusion |
+|---|---|
+| One candidate clearly fits | The density is consistent with that candidate under the tested conditions. |
+| Several candidates fit | Density screening is inconclusive; collect better data or use another supervised method. |
+| No candidate fits | Possible mixture, contamination, temperature mismatch, measurement error, or an omitted candidate. |
+
+This is the scientifically honest endpoint. A density value is evidence, not a guarantee of chemical identity.
+
 ## The essential knowledge you should know
 
 ### 1. Density
@@ -106,13 +191,7 @@ You need to understand:
 
 Conceptually, if you weigh the container separately:
 
-# [  
-m_{\text{liquid}}
-
-## m_{\text{container+liquid}}
-
-m_{\text{empty container}}  
-]
+$$m_{\text{liquid}}=m_{\text{container+liquid}}-m_{\text{empty container}}$$
 
 Or you can tare the balance before adding the liquid.
 
@@ -485,7 +564,9 @@ That's enough to understand the core experiment properly.
 
 ---
 
-# If you want a more advanced “liquid type test”
+## If you want a more advanced “liquid type test”
+
+Additional properties can strengthen an identification only in a supervised laboratory after the hazards and waste route are known. Conductivity, solubility, acid-base behavior, or spectroscopy are not safe DIY tests for a genuinely unknown bottle, because the test itself may create heat, gas, toxic vapor, or a reactive mixture.
 
 If density alone isn't enough, then additional Zumdahl knowledge becomes useful.
 
