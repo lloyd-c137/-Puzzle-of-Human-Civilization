@@ -152,25 +152,35 @@ Know:
 
 Core relationship:
 
-$$
+<div class="math-display">
+\[
 1\text{ mol}=6.022\times10^{23}
-$$
+\]
+</div>
 Master conversions:
 
-$$
+<div class="math-display">
+\[
 \text{grams}\leftrightarrow\text{moles}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \text{moles}\leftrightarrow\text{particles}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \text{grams}\leftrightarrow\text{particles}
-$$
+\]
+</div>
 using:
 
-$$
+<div class="math-display">
+\[
 n=\frac{m}{M}
-$$
+\]
+</div>
 You need to understand why molar mass numerically connects microscopic particle mass in amu with macroscopic mass in grams per mole. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ### 1.2 Mass spectra of elements
@@ -194,9 +204,11 @@ Know:
 
 Be able to interpret peaks and calculate average atomic mass:
 
-$$
+<div class="math-display">
+\[
 \bar m=\sum(\text{isotope mass})(\text{fractional abundance})
-$$
+\]
+</div>
 ### 1.3 Elemental composition of pure substances
 
 Know:
@@ -214,14 +226,18 @@ Know:
 
 Be able to:
 
-$$
+<div class="math-display">
+\[
 \text{mass data} \rightarrow \text{moles of each element} \rightarrow \text{mole ratio} \rightarrow \text{empirical formula}
-$$
+\]
+</div>
 And:
 
-$$
+<div class="math-display">
+\[
 \text{empirical formula} + \text{molar mass} \rightarrow \text{molecular formula}
-$$
+\]
+</div>
 ### 1.4 Composition of mixtures
 
 Know:
@@ -278,16 +294,20 @@ Know:
 
 Be able to write things such as:
 
-$$
+<div class="math-display">
+\[
 \mathrm{O}:1s^22s^22p^4
-$$
+\]
+</div>
 and configurations for common ions.
 
 Understand Coulomb's-law reasoning:
 
-$$
+<div class="math-display">
+\[
 F\propto\frac{q_1q_2}{r^2}
-$$
+\]
+</div>
 Smaller (r) or larger charge magnitude means stronger electrostatic interaction.
 
 **You do not need to assign quantum numbers to individual electrons for AP.** College Board explicitly excludes that. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
@@ -504,9 +524,11 @@ Know:
 
 Formal charge:
 
-$$
+<div class="math-display">
+\[
 FC= \text{valence electrons} \text{assigned electrons}
-$$
+\]
+</div>
 Be able to decide which Lewis structures are most reasonable.
 
 ### 2.7 VSEPR and hybridization
@@ -562,9 +584,11 @@ Know:
 
 Be able to go:
 
-$$
+<div class="math-display">
+\[
 \text{Lewis structure} \rightarrow \text{electron domains} \rightarrow \text{shape} \rightarrow \text{bond polarity} \rightarrow \text{molecular polarity}
-$$
+\]
+</div>
 AP does **not** assess (d)-orbital hybridization, nor does it explicitly assess molecular-orbital diagrams/filling. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ---
@@ -600,19 +624,25 @@ Absolutely master:
 
 Hydrogen bonding requires H covalently bonded to:
 
-$$
+<div class="math-display">
+\[
 \boxed{N,\ O,\ \text{or }F}
-$$
+\]
+</div>
 Know the distinction:
 
-$$
+<div class="math-display">
+\[
 \textbf{intramolecular} \text{within a particle}
-$$
+\]
+</div>
 versus
 
-$$
+<div class="math-display">
+\[
 \textbf{intermolecular} \text{between particles}
-$$
+\]
+</div>
 ### 3.2 Properties of solids
 
 Know:
@@ -667,9 +697,11 @@ Explain each at the particle level.
 
 Master:
 
-$$
+<div class="math-display">
+\[
 PV=nRT
-$$
+\]
+</div>
 plus:
 
 - pressure
@@ -710,9 +742,11 @@ Know:
 
 Critical relationship:
 
-$$
+<div class="math-display">
+\[
 KE_{\text{avg}}\propto T
-$$
+\]
+</div>
 At the same temperature, different gases have the **same average kinetic energy**, not the same average speed.
 
 ### 3.6 Deviations from ideal gas behavior
@@ -758,9 +792,11 @@ Know:
 - molarity
 
 
-$$
+<div class="math-display">
+\[
 M=\frac{\text{mol solute}}{\text{L solution}}
-$$
+\]
+</div>
 Master dilution and concentration calculations.
 
 ### 3.8 Representations of solutions
@@ -822,9 +858,11 @@ Know:
 
 Main concept:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{similar intermolecular interactions favor mixing}}
-$$
+\]
+</div>
 The childish version is “like dissolves like,” but AP expects the molecular explanation behind it. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ### 3.11 Spectroscopy and electromagnetic spectrum
@@ -884,12 +922,16 @@ Know:
 
 Master:
 
-$$
+<div class="math-display">
+\[
 c=\lambda\nu
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 E=h\nu
-$$
+\]
+</div>
 Therefore:
 
 shorter wavelength → higher frequency → higher photon energy.
@@ -913,14 +955,18 @@ Know:
 - wavelength of maximum absorbance
 
 
-$$
+<div class="math-display">
+\[
 A=\varepsilon bc
-$$
+\]
+</div>
 At constant (b) and wavelength:
 
-$$
+<div class="math-display">
+\[
 A\propto c
-$$
+\]
+</div>
 ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ---
@@ -996,14 +1042,18 @@ The official topics cover evidence for reactions, net ionic equations, represent
 
 Master:
 
-$$
+<div class="math-display">
+\[
 \text{given} \rightarrow \text{moles} \rightarrow \text{mole ratio} \rightarrow \text{wanted}
-$$
+\]
+</div>
 And:
 
-$$
+<div class="math-display">
+\[
 %\text{yield} \frac{\text{actual}} {\text{theoretical}}\times100
-$$
+\]
+</div>
 For redox:
 
 **oxidation = loss of electrons**
@@ -1075,18 +1125,22 @@ Know:
 
 General form:
 
-$$
+<div class="math-display">
+\[
 \text{Rate}=k[A]^m[B]^n
-$$
+\]
+</div>
 Know how to determine (m,n,k) from experimental data.
 
 Understand zero-, first-, and second-order plots and integrated laws.
 
 For first order:
 
-$$
+<div class="math-display">
+\[
 t_{1/2}=\frac{0.693}{k}
-$$
+\]
+</div>
 Understand why increasing:
 
 - concentration
@@ -1100,9 +1154,11 @@ can increase reaction rate.
 
 Understand catalysts:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{lower activation energy}}
-$$
+\]
+</div>
 but do **not** change:
 
 - (\Delta H)
@@ -1161,32 +1217,44 @@ Know:
 
 Master:
 
-$$
+<div class="math-display">
+\[
 q=mc\Delta T
-$$
+\]
+</div>
 Understand:
 
-$$
+<div class="math-display">
+\[
 q_{\text{system}}=-q_{\text{surroundings}}
-$$
+\]
+</div>
 and:
 
-$$
+<div class="math-display">
+\[
 \Delta H<0 \Rightarrow\text{exothermic}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \Delta H>0 \Rightarrow\text{endothermic}
-$$
+\]
+</div>
 Using bond enthalpies:
 
-$$
+<div class="math-display">
+\[
 \Delta H \approx \sum E(\text{bonds broken}) \sum E(\text{bonds formed})
-$$
+\]
+</div>
 Using standard enthalpies of formation:
 
-$$
+<div class="math-display">
+\[
 \Delta H^\circ_{\rm rxn} \sum n\Delta H_f^\circ(\text{products}) \sum n\Delta H_f^\circ(\text{reactants})
-$$
+\]
+</div>
 Master Hess's law, including reversing/scaling equations.
 
 ---
@@ -1240,35 +1308,49 @@ Critical concept:
 
 At equilibrium:
 
-$$
+<div class="math-display">
+\[
 \boxed{r_\text{forward}=r_\text{reverse}}
-$$
+\]
+</div>
 but:
 
-$$
+<div class="math-display">
+\[
 [\text{reactants}] \neq [\text{products}]
-$$
+\]
+</div>
 necessarily.
 
 For:
 
-$$
+<div class="math-display">
+\[
 aA+bB\rightleftharpoons cC+dD
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 K_c= \frac{[C]^c[D]^d} {[A]^a[B]^b}
-$$
+\]
+</div>
 Know:
 
-$$
+<div class="math-display">
+\[
 Q<K\Rightarrow\text{forward}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 Q>K\Rightarrow\text{reverse}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 Q=K\Rightarrow\text{equilibrium}
-$$
+\]
+</div>
 Understand what happens to (K) when:
 
 - reaction is reversed;
@@ -1378,78 +1460,106 @@ This is the second-largest unit, weighted **11–15%**. ([AP中央](https://apce
 
 The current framework explicitly gives:
 
-$$
+<div class="math-display">
+\[
 HCl,\ HBr,\ HI,\ HNO_3,\ HClO_4,\ H_2SO_4
-$$
+\]
+</div>
 ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 Strong bases include Group 1 and Group 2 hydroxides in the AP framework. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ### Core equations
 
-$$
+<div class="math-display">
+\[
 K_w=[H_3O^+][OH^-]
-$$
+\]
+</div>
 At (25^\circ C):
 
-$$
+<div class="math-display">
+\[
 K_w=1.0\times10^{-14}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 pH=-\log[H_3O^+]
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 pOH=-\log[OH^-]
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 pH+pOH=14
-$$
+\]
+</div>
 But understand that **neutral pH is not always 7** because (K_w) changes with temperature. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 Weak acid:
 
-$$
+<div class="math-display">
+\[
 K_a= \frac{[H_3O^+][A^-]} {[HA]}
-$$
+\]
+</div>
 Weak base:
 
-$$
+<div class="math-display">
+\[
 K_b= \frac{[OH^-][HB^+]} {[B]}
-$$
+\]
+</div>
 Conjugates:
 
-$$
+<div class="math-display">
+\[
 K_aK_b=K_w
-$$
+\]
+</div>
 ### Buffers
 
 Know why:
 
-$$
+<div class="math-display">
+\[
 HA/A^-
-$$
+\]
+</div>
 or:
 
-$$
+<div class="math-display">
+\[
 B/HB^+
-$$
+\]
+</div>
 resists pH changes.
 
 Henderson-Hasselbalch:
 
-$$
+<div class="math-display">
+\[
 pH=pK_a+\log \frac{[A^-]}{[HA]}
-$$
+\]
+</div>
 At half-equivalence:
 
-$$
+<div class="math-display">
+\[
 [HA]=[A^-]
-$$
+\]
+</div>
 therefore:
 
-$$
+<div class="math-display">
+\[
 \boxed{pH=pK_a}
-$$
+\]
+</div>
 ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 ### Titration curves
@@ -1519,48 +1629,64 @@ Know:
 
 General tendencies:
 
-$$
+<div class="math-display">
+\[
 \text{solid}\rightarrow\text{liquid}\rightarrow\text{gas}
-$$
+\]
+</div>
 usually means:
 
-$$
+<div class="math-display">
+\[
 \Delta S>0
-$$
+\]
+</div>
 More gas particles generally means greater entropy. College Board emphasizes entropy as dispersal of matter and energy. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))
 
 Calculate:
 
-$$
+<div class="math-display">
+\[
 \Delta S^\circ_{\rm rxn} \sum S^\circ_{\rm products} \sum S^\circ_{\rm reactants}
-$$
+\]
+</div>
 Master:
 
-$$
+<div class="math-display">
+\[
 \boxed{\Delta G=\Delta H-T\Delta S}
-$$
+\]
+</div>
 Interpret:
 
-$$
+<div class="math-display">
+\[
 \Delta G<0
-$$
+\]
+</div>
 thermodynamically favorable.
 
-$$
+<div class="math-display">
+\[
 \Delta G>0
-$$
+\]
+</div>
 thermodynamically unfavorable.
 
-$$
+<div class="math-display">
+\[
 \Delta G=0
-$$
+\]
+</div>
 equilibrium.
 
 And:
 
-$$
+<div class="math-display">
+\[
 \Delta G^\circ=-RT\ln K
-$$
+\]
+</div>
 This is the bridge connecting thermodynamics and equilibrium.
 
 ### Electrochemistry vocabulary
@@ -1610,14 +1736,18 @@ Know:
 
 Memorize conceptually:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{AN OX}}
-$$
+\]
+</div>
 anode = oxidation
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{RED CAT}}
-$$
+\]
+</div>
 cathode = reduction
 
 For both galvanic and electrolytic cells.
@@ -1626,31 +1756,41 @@ Understand:
 
 **Galvanic:**
 
-$$
+<div class="math-display">
+\[
 \text{spontaneous chemical reaction} \rightarrow \text{electrical energy}
-$$
+\]
+</div>
 **Electrolytic:**
 
-$$
+<div class="math-display">
+\[
 \text{electrical energy} \rightarrow \text{nonspontaneous chemical reaction}
-$$
+\]
+</div>
 Master:
 
-$$
+<div class="math-display">
+\[
 \Delta G^\circ=-nFE^\circ
-$$
+\]
+</div>
 and the Nernst relationship provided on the reference sheet.
 
 For electrolysis:
 
-$$
+<div class="math-display">
+\[
 q=It
-$$
+\]
+</div>
 then:
 
-$$
+<div class="math-display">
+\[
 \text{charge} \rightarrow \text{mol electrons} \rightarrow \text{mol substance}
-$$
+\]
+</div>
 using Faraday's constant.
 
 ---
@@ -1922,9 +2062,11 @@ You should reach four levels:
 
 **3. Calculate with it**
 
-$$
+<div class="math-display">
+\[
 Q,\ K,\ [A]_{\rm eq}
-$$
+\]
+</div>
 **4. Apply it to an unfamiliar situation**
 
 > Given a new graph, experiment, particle diagram or reaction, predict what happens and justify why.

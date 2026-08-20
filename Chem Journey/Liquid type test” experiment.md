@@ -75,12 +75,16 @@ Use only equipment approved by the supervisor: a balance, a clean dry density vi
 
 ### Calculations
 
-$$
+<div class="math-display">
+\[
 m_{\text{liquid}}=m_{\text{vessel+liquid}}-m_{\text{empty vessel}}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 D=\frac{m_{\text{liquid}}}{V}
-$$
+\]
+</div>
 Calculate the mean density and record the spread of the repeated results. Keep only the precision supported by the balance and volume glassware.
 
 ### Decision rule
@@ -122,9 +126,11 @@ You must know:
 
 The equation is:
 
-$$
+<div class="math-display">
+\[
 \boxed{D=\frac{m}{V}}
-$$
+\]
+</div>
 where:
 
 - (D) = density
@@ -136,36 +142,48 @@ where:
 
 Common liquid-density units are:
 
-$$
+<div class="math-display">
+\[
 \text{g/mL}
-$$
+\]
+</div>
 or
 
-$$
+<div class="math-display">
+\[
 \text{g/cm}^3
-$$
+\]
+</div>
 and:
 
-$$
+<div class="math-display">
+\[
 1\text{ mL}=1\text{ cm}^3
-$$
+\]
+</div>
 Zumdahl explicitly describes density as an **“identification tag”** for substances and demonstrates identifying an unknown liquid this way.
 
 For example, if:
 
-$$
+<div class="math-display">
+\[
 m=19.625\text{ g}
-$$
+\]
+</div>
 and
 
-$$
+<div class="math-display">
+\[
 V=25.00\text{ mL}
-$$
+\]
+</div>
 then:
 
-$$
+<div class="math-display">
+\[
 D=\frac{19.625}{25.00} =0.7850\text{ g/mL}
-$$
+\]
+</div>
 That closely matches isopropyl alcohol in the textbook's candidate table.
 
 ---
@@ -185,9 +203,11 @@ You need to understand:
 
 Conceptually, if you weigh the container separately:
 
-$$
+<div class="math-display">
+\[
 m_{\text{liquid}}=m_{\text{container+liquid}}-m_{\text{empty container}}
-$$
+\]
+</div>
 Or you can tare the balance before adding the liquid.
 
 The important point is that you're not accidentally calculating the density of “isopropanol plus glassware,” which would be innovative but not especially useful chemistry.
@@ -238,23 +258,29 @@ Know:
 
 For example:
 
-$$
+<div class="math-display">
+\[
 m=19.625\text{ g}
-$$
+\]
+</div>
 has 5 significant figures,
 
 while:
 
-$$
+<div class="math-display">
+\[
 V=25.00\text{ mL}
-$$
+\]
+</div>
 has 4 significant figures.
 
 Therefore:
 
-$$
+<div class="math-display">
+\[
 D=\frac{19.625}{25.00} =0.7850\text{ g/mL}
-$$
+\]
+</div>
 should have **4 significant figures**.
 
 Zumdahl connects significant figures directly to measurement uncertainty.
@@ -275,16 +301,20 @@ How close repeated measurements are to one another.
 
 Suppose you measure:
 
-$$
+<div class="math-display">
+\[
 0.783,\ 0.784,\ 0.783\text{ g/mL}
-$$
+\]
+</div>
 Those results are very **precise**.
 
 But if the actual liquid density should be:
 
-$$
+<div class="math-display">
+\[
 0.880\text{ g/mL}
-$$
+\]
+</div>
 they are not accurate.
 
 Zumdahl includes **accuracy, precision, random error, and systematic error** as core Chapter 1 measurement concepts.
@@ -297,9 +327,11 @@ You should know that every measurement has uncertainty.
 
 For example:
 
-$$
+<div class="math-display">
+\[
 25.00\text{ mL}
-$$
+\]
+</div>
 does not mean literally and infinitely exactly 25.000000000 mL.
 
 The precision of the measuring device determines the uncertainty.
@@ -308,9 +340,11 @@ Zumdahl even has an appendix showing how uncertainty in mass and volume propagat
 
 For a basic school experiment, you probably don't need advanced uncertainty propagation, but you should understand:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{measured result} \neq \text{perfect exact value}}
-$$
+\]
+</div>
 This becomes especially important if two candidate liquids have similar densities.
 
 ---
@@ -319,23 +353,33 @@ This becomes especially important if two candidate liquids have similar densitie
 
 Suppose your three measured densities are:
 
-$$
+<div class="math-display">
+\[
 0.786
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 0.783
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 0.785
-$$
+\]
+</div>
 Then calculate the mean:
 
-$$
+<div class="math-display">
+\[
 \bar D= \frac{D_1+D_2+D_3}{3}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \bar D= \frac{0.786+0.783+0.785}{3} \approx0.785\text{ g/mL}
-$$
+\]
+</div>
 This improves confidence in your result and lets you judge precision.
 
 The textbook itself warns that one density measurement may not be enough. In its unknown-liquid example, ethanol has density (0.789) g/cm³ and isopropyl alcohol (0.785) g/cm³, so Zumdahl says additional density experiments should be performed before being confident in the identification.
@@ -358,9 +402,11 @@ The known density of a candidate substance under specified conditions.
 
 Suppose you measure:
 
-$$
+<div class="math-display">
+\[
 D_{\text{experimental}}=0.786\text{ g/mL}
-$$
+\]
+</div>
 Reference values:
 
 - ethanol = 0.789
@@ -372,9 +418,11 @@ Reference values:
 
 Then your result supports:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{isopropyl alcohol}}
-$$
+\]
+</div>
 as the strongest candidate.
 
 Zumdahl provides exactly this style of candidate table in its unknown-liquid example.
@@ -389,9 +437,11 @@ Density depends on temperature.
 
 Zumdahl's table gives its candidate liquid densities specifically at:
 
-$$
+<div class="math-display">
+\[
 20^\circ C
-$$
+\]
+</div>
 For example:
 
 - chloroform: 1.492 g/cm³
@@ -443,14 +493,18 @@ Other potentially useful physical properties include:
 
 Your reasoning is:
 
-$$
+<div class="math-display">
+\[
 \text{measure physical properties} \rightarrow \text{compare with known substances} \rightarrow \text{infer identity}
-$$
+\]
+</div>
 not:
 
-$$
+<div class="math-display">
+\[
 \text{one vaguely similar observation} \rightarrow \text{declare victory}
-$$
+\]
+</div>
 ---
 
 # 11. Pure substance vs. mixture
@@ -459,23 +513,29 @@ This one is more important than it first appears.
 
 Zumdahl's Chapter 1 classification of matter distinguishes:
 
-$$
+<div class="math-display">
+\[
 \text{pure substance}
-$$
+\]
+</div>
 from
 
-$$
+<div class="math-display">
+\[
 \text{mixture}
-$$
+\]
+</div>
 and homogeneous from heterogeneous mixtures.
 
 Why does this matter?
 
 Suppose the bottle contains:
 
-$$
+<div class="math-display">
+\[
 70%\text{ isopropanol}+30%\text{ water}
-$$
+\]
+</div>
 Its density will not simply equal the value for pure isopropanol.
 
 So before claiming:
@@ -521,9 +581,11 @@ then master these 10 terms/concepts:
 
 Plus the equation:
 
-$$
+<div class="math-display">
+\[
 \boxed{D=\frac{m}{V}}
-$$
+\]
+</div>
 That's enough to understand the core experiment properly.
 
 ---
@@ -622,48 +684,68 @@ The book explicitly notes that spectroscopy is widely used in modern chemical an
 
 ## So your knowledge dependency map is
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Measurement}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Mass + Volume}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{D=\frac{m}{V}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Significant figures + uncertainty}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Repeated trials}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Compare with reference densities}}
-$$
+\]
+</div>
 ↓
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Identify most likely liquid}}
-$$
+\]
+</div>
 And for a more sophisticated experiment:
 
-$$
+<div class="math-display">
+\[
 \boxed{\text{Density}} + \boxed{\text{Conductivity}} + \boxed{\text{Solubility/polarity}} + \boxed{\text{Spectroscopy}}
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \Downarrow
-$$
-$$
+\]
+</div>
+<div class="math-display">
+\[
 \boxed{\text{much stronger identification}}
-$$
+\]
+</div>
 For your first version of the experiment, though, I would focus almost entirely on **Chapter 1 Sections 1.3–1.5 and 1.9**, especially measurement, uncertainty, significant figures, and density. That is precisely the knowledge Zumdahl uses for its own unknown-liquid identification example.
