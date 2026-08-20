@@ -1,3 +1,9 @@
+---
+layout: default
+title: AP Chemistry Master Checklist
+permalink: /chemistry/ap-chemistry/
+---
+
 If by **A*** you mean “top grade in your AP Chemistry class and ideally a **5 on the AP exam**,” then we can build a precise mastery checklist. AP itself reports exam scores from **1 to 5**, rather than A*–F grades. Tiny naming inconvenience, because apparently education systems needed several incompatible ways to say “did well.” ([AP 学生](https://apstudents.collegeboard.org/about-ap-scores/score-distributions/ap-chemistry?utm_source=chatgpt.com "Past AP Chemistry Score Distributions"))
 
 The current College Board AP Chemistry framework has **9 units**. Unit 3 is especially large at **18–22%**, Unit 8 is **11–15%**, and the other seven units are each **7–9%** of the multiple-choice content weighting. More importantly, every AP question combines **chemistry content with a science skill**, so simply memorizing definitions will not get you to the top score. ([AP中央](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf "AP® Chemistry Course and Exam Description"))

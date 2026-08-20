@@ -1,3 +1,9 @@
+---
+layout: default
+title: Liquid Type Test Experiment
+permalink: /chemistry/liquid-type-test/
+---
+
 Required essential knowledge:
 1. Density: D=m/V
 2. Mass

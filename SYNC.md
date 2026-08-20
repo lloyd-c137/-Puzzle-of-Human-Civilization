@@ -1,3 +1,9 @@
+---
+layout: default
+title: GitHub Daily Sync
+permalink: /sync/
+---
+
 # GitHub daily sync
 
 这个仓库使用 macOS `launchd` 每天同步到 GitHub 的 `main` 分支。

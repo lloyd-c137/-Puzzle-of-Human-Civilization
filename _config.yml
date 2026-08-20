@@ -1,0 +1,16 @@
+title: Puzzle of Human Civilization
+description: Cross-disciplinary learning notes in chemistry, physics, and the study of civilization.
+url: https://lloyd-c137.github.io
+baseurl: /Puzzle-of-Human-Civilization
+lang: zh-CN
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - .obsidian/
+  - scripts/
+  - tmp/
+  - vendor/
