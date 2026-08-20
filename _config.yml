@@ -11,6 +11,8 @@ kramdown:
 
 exclude:
   - .obsidian/
+  - .github/
   - scripts/
+  - SYNC.md
   - tmp/
   - vendor/
