@@ -13,6 +13,7 @@ permalink: /
 ### 化学（Chem Journey）
 
 - [AP Chemistry master checklist]({{ '/chemistry/ap-chemistry/' | relative_url }})：AP Chemistry 九个单元、科学实践、实验和公式的系统清单。
+- [AP Chemistry × Zumdahl 9e 学习路线]({{ '/chemistry/learning-path/' | relative_url }})：20 周 AP Chemistry 自学计划、章节映射、实验支线和达标标准。
 - [Liquid type test experiment]({{ '/chemistry/liquid-type-test/' | relative_url }})：通过质量、体积和密度识别未知液体的实验知识。
 - [Cycle 1 学习记录]({{ '/chemistry/cycle-1/' | relative_url }})：化学学习路径、兴趣主题和实验设想。
 
