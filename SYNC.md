@@ -1,12 +1,12 @@
 ---
 layout: default
-title: GitHub Daily Sync
+title: GitHub Automatic Sync
 permalink: /sync/
 ---
 
-# GitHub daily sync
+# GitHub automatic sync
 
-这个仓库使用 macOS `launchd` 每天同步到 GitHub 的 `main` 分支。
+这个仓库使用 macOS `launchd` 自动检查本地文件变化，并同步到 GitHub 的 `main` 分支。
 
 同步流程：
 
@@ -24,7 +24,7 @@ permalink: /sync/
 ./scripts/install-daily-sync.sh
 ```
 
-当前任务每天 03:15 运行。
+当前任务每 30 秒检查一次本地文件变化；发现变化后会自动提交并推送。
 
 ## 手动测试
 

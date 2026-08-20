@@ -46,8 +46,11 @@ if [[ -n "$(git status --porcelain)" ]]; then
   printf '[%s] Committing local changes\n' "$(timestamp)"
   git add -A || fail "Could not stage local changes"
   if ! git diff --cached --quiet; then
-    git commit -m "Daily sync: $(date '+%Y-%m-%d')" || fail "Could not commit local changes"
+    git commit -m "Automatic sync: $(date '+%Y-%m-%d %H:%M:%S')" || fail "Could not commit local changes"
   fi
+else
+  printf '[%s] No local file changes; skipping sync\n' "$(timestamp)"
+  exit 0
 fi
 
 printf '[%s] Fetching %s/%s\n' "$(timestamp)" "$REMOTE_NAME" "$BRANCH"

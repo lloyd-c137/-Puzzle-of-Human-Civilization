@@ -11,13 +11,8 @@
   </array>
   <key>WorkingDirectory</key>
   <string>/Users/mac/Documents/obsidian-vault/01-learning/PHC</string>
-  <key>StartCalendarInterval</key>
-  <dict>
-    <key>Hour</key>
-    <integer>3</integer>
-    <key>Minute</key>
-    <integer>15</integer>
-  </dict>
+  <key>StartInterval</key>
+  <integer>30</integer>
   <key>RunAtLoad</key>
   <false/>
   <key>StandardOutPath</key>

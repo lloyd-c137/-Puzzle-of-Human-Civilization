@@ -21,5 +21,5 @@ launchctl bootout "${DOMAIN}/${LABEL}" >/dev/null 2>&1 || true
 launchctl bootstrap "${DOMAIN}" "${TARGET_PLIST}"
 launchctl enable "${DOMAIN}/${LABEL}" >/dev/null 2>&1 || true
 
-echo "Installed ${LABEL}; it will run daily at 03:15."
+echo "Installed ${LABEL}; it will check for local changes every 30 seconds."
 echo "Log: ${HOME}/Library/Logs/PHC/github-sync.log"
