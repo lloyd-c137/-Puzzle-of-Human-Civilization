@@ -18,3 +18,4 @@ When I ask about the meaning of a word or concept, add it here with:
 
 | Word or concept | Simple meaning | Why it matters | Example |
 |---|---|---|---|
+| Goggles | Protective eyewear that covers or shields the eyes. | They protect your eyes from liquid splashes, droplets, and chemical vapors during the experiment. | Put on chemical-splash goggles before handling the sample. |
