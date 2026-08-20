@@ -222,4 +222,4 @@ Add unfamiliar words to the separate vocabulary document in the root of the lear
 
 | Date | Stage studied | What I can now explain or do | Next step |
 |---|---|---|---|
-|  |  |  |  |
+| 2026-08-20 | 1.1 Chemistry: An Overview | Explain atoms, the nucleus, protons, neutrons, electrons, molecules, elements, and compounds. | Learn chemical change and physical properties, then begin the scientific method. |
