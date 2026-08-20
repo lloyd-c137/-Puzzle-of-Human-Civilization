@@ -41,12 +41,12 @@ Never test a bottle of genuinely unknown liquid. Do not open, smell, taste, touc
 2. Label the container with the sample code and place it in the spill tray.
 3. Place the clean, dry container **and lid** on the balance.
    - If using tare, press tare and record the balance reading as `0.00 g`.
-   - Otherwise, record the empty-container mass as `m₁`.
+   - Otherwise, record the empty-container mass as $m_1$.
 4. Measure exactly the same volume for every trial. Use **10.00 mL** unless the supervisor specifies another volume.
 5. Transfer the sample into the container. Close the lid.
 6. Record the mass:
-   - after taring: record the liquid mass directly as `m₂`;
-   - without taring: record the container-plus-liquid mass as `m₃`.
+   - after taring: record the liquid mass directly as $m_2$;
+   - without taring: record the container-plus-liquid mass as $m_3$.
 7. Record visible observations. Do not deliberately smell the sample.
 8. Dispose of the sample exactly as the supervisor instructed. Never return it to the original container or pour it into a sink.
 9. Clean and dry the container as instructed, or use another clean, dry container.
@@ -65,17 +65,25 @@ Never test a bottle of genuinely unknown liquid. Do not open, smell, taste, touc
 
 If the balance was not tared:
 
-`liquid mass = (container + liquid mass) − empty-container mass`
+$$
+m_{\text{liquid}} = m_{\text{container+liquid}} - m_{\text{empty container}}
+$$
 
 For each trial:
 
-`density = liquid mass ÷ volume`
+$$
+D = \frac{m_{\text{liquid}}}{V}
+$$
 
 Then calculate:
 
-`mean density = (density₁ + density₂ + density₃) ÷ 3`
+$$
+\bar{D} = \frac{D_1 + D_2 + D_3}{3}
+$$
 
-`range = highest density − lowest density`
+$$
+\text{range} = D_{\text{highest}} - D_{\text{lowest}}
+$$
 
 Record:
 
@@ -90,7 +98,9 @@ Use reference densities measured at the same or a very similar temperature.
 
 For each candidate:
 
-`absolute difference = |mean density − reference density|`
+$$
+\Delta = \left|\bar{D} - D_{\text{reference}}\right|
+$$
 
 Mark **Fits** only when the absolute difference is no greater than the supervisor's comparison tolerance.
 

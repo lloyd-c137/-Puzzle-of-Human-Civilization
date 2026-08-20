@@ -33,7 +33,6 @@ h3 { margin-top: 1.8em; }
 .breadcrumb { margin-top: 0; color: var(--muted); font-size: .9rem; }
 blockquote { margin-left: 0; padding: .6em 1em; border-left: 4px solid var(--accent); background: var(--accent-soft); }
 .math-display { margin: 1.25em 0; overflow-x: auto; }
-.formula { margin: 1.25em 0; overflow-x: auto; font-family: Georgia, "Times New Roman", serif; font-size: 1.08em; }
 code { padding: .15em .35em; border-radius: 4px; background: #f0f3ed; }
 pre { overflow-x: auto; padding: 16px; border-radius: 8px; background: #202820; color: #eef5eb; }
 pre code { padding: 0; background: transparent; }
