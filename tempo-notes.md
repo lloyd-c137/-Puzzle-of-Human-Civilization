@@ -1,73 +1,161 @@
-To do the experiment properly, safely, and accurately, you must understand these concepts:
+Here is the experiment exactly as described in the current document.
 
-### Safety
+## 1. Objective
 
-- **Supervised sample** — only test an approved classroom/laboratory sample.
-- **Candidate list** — the possible liquids you are comparing.
-- **PPE** — goggles, gloves, and lab coat/apron.
-- **Chemical waste** — the approved place for disposal.
-- **Spill tray** — prevents spills from spreading.
-- **Unknown liquid** — never open, smell, taste, touch, heat, mix, or drain it.
-- **Open flame and heating** — prohibited.
-- **Vapor, pressure, reaction, leak, and spill** — warning signs requiring you to stop and notify the supervisor.
-- **Mouth pipetting** — never use your mouth to draw liquid into a pipette.
+You will measure the sample’s **density** and compare it with the reference densities of the candidate liquids.
 
-### Measurement
+## 2. Safety gate
 
-- **Mass** — amount of matter, measured in grams (g).
-- **Volume** — amount of space occupied, measured in milliliters (mL).
-- **Density** — mass divided by volume.
-- **Balance** — measures mass.
-- **Graduated cylinder or pipette** — measures volume.
-- **Tare** — set the balance to zero with the empty container and lid on it.
-- **Temperature** — must be recorded because density changes with temperature.
-- **Trial** — one complete measurement.
-- **Observation** — what you notice during the experiment.
+Before starting, confirm that:
 
-### Quantities and symbols
+- The sample is supervised and belongs to a known candidate list.
+- A supervisor approved the test.
+- PPE is available.
+- The balance, volume tool, thermometer, labels, spill tray, and waste container are ready.
+- There is no flame, heating, tasting, or mouth pipetting.
 
-- \(m_1\): empty-container mass
-- \(m_2\): liquid mass after taring
-- \(m_3\): container-plus-liquid mass
-- \(V\): liquid volume
-- \(D\): density
+If anything is missing, record:
 
-If the balance is not tared:
+> **Not tested — safety requirement missing.**
+
+## 3. Prepare the equipment
+
+You need:
+
+- Balance
+- Clean, dry container with lid
+- Graduated cylinder or pipette
+- Thermometer
+- Labels and pen
+- Spill tray
+- Approved chemical-waste container
+
+## 4. Record information
+
+Write down:
+
+- Sample code
+- Candidate list
+- Date
+- Sample temperature
+
+## 5. Prepare the container
+
+1. Label the container with the sample code.
+2. Place it in the spill tray.
+3. Put the clean, dry container and lid on the balance.
+
+You have two choices:
+
+- Press **tare** and set the balance to zero.
+- Or record the empty-container mass as \(m_1\).
+
+## 6. Measure the volume
+
+Measure the same volume for every trial.
+
+Use **10.00 mL** unless the supervisor specifies another volume.
+
+## 7. Measure the mass
+
+Transfer the liquid into the container and close the lid.
+
+- If you used tare, record the liquid mass directly as \(m_2\).
+- If you did not use tare, record the container-plus-liquid mass as \(m_3\).
+
+Then calculate:
 
 $$
-m_{\text{liquid}} =
-m_{\text{container+liquid}} -
+m_{\text{liquid}}
+=
+m_{\text{container+liquid}}
+-
 m_{\text{empty container}}
 $$
+
+## 8. Record observations and dispose of the sample
+
+Record visible observations.
+
+Do not deliberately smell the sample.
+
+Dispose of it according to the supervisor’s instructions. Do not return it to the original container or pour it into a sink.
+
+Clean and dry the container as instructed, or use another clean container.
+
+## 9. Repeat the experiment
+
+Repeat the measurement until you have **three trials**.
+
+Use the same volume and the same method each time.
+
+Stop and notify the supervisor if there is:
+
+- Spill
+- Strong vapor
+- Pressure
+- Heating
+- Reaction
+- Leak
+- Other unexpected change
+
+## 10. Calculate each density
 
 For each trial:
 
 $$
-D = \frac{m_{\text{liquid}}}{V}
+D=\frac{m_{\text{liquid}}}{V}
 $$
 
-### Accuracy and comparison
+where:
 
-- **Three trials** — repeat the measurement three times.
-- **Mean density** — average of the three density values.
+- \(D\) is density
+- \(m_{\text{liquid}}\) is liquid mass
+- \(V\) is liquid volume
 
-$$
-\bar{D} = \frac{D_1+D_2+D_3}{3}
-$$
+## 11. Calculate the mean and range
 
-- **Range** — highest density minus lowest density; shows how much your results vary.
-- **Reference density** — known density of a candidate liquid.
-- **Comparison tolerance** — maximum allowed difference from the reference value.
-- **Absolute difference** — distance between your mean density and the reference density.
+Mean density:
 
 $$
-\Delta =
+\bar{D}=
+\frac{D_1+D_2+D_3}{3}
+$$
+
+Range:
+
+$$
+\text{range}
+=
+D_{\text{highest}}
+-
+D_{\text{lowest}}
+$$
+
+Record:
+
+- Mean density
+- Range
+- Sample temperature
+- Comparison tolerance
+
+## 12. Compare with candidates
+
+Use reference densities measured at the same or a similar temperature.
+
+For each candidate, calculate:
+
+$$
+\Delta=
 \left|\bar{D}-D_{\text{reference}}\right|
 $$
 
-- **Consistent with** — your result fits one candidate; it does not prove identity.
-- **Inconclusive** — more than one candidate fits, or none fits.
+Mark **Fits** when the absolute difference is no greater than the supervisor’s comparison tolerance.
 
-The most important chain is:
+## 13. Decide the result
 
-> Safety check → measure mass and volume → calculate density → repeat three times → calculate the mean → compare with candidate reference values.
+- If exactly one candidate fits, report: **“consistent with [candidate].”**
+- If two or more candidates fit, report: **“inconclusive — density cannot distinguish the candidates.”**
+- If no candidate fits, report: **“inconclusive — check the measurements, temperature, sample, and candidate list.”**
+
+The final conclusion should state the sample code, mean density, temperature, range, and result.
