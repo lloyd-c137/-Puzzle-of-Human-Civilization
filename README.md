@@ -10,7 +10,7 @@ permalink: /
 
 ## 当前内容
 
-### 化学（Chem Journey）
+### 化学（Chem Journal）
 
 - [AP Chemistry master checklist]({{ '/chemistry/ap-chemistry/' | relative_url }})：AP Chemistry 九个单元、科学实践、实验和公式的系统清单。
 - [AP Chemistry × Zumdahl 9e 学习路线]({{ '/chemistry/learning-path/' | relative_url }})：20 周 AP Chemistry 自学计划、章节映射、实验支线和达标标准。
@@ -29,7 +29,7 @@ permalink: /
 
 ```text
 .
-├── Chem Journey/       # 化学学习笔记
+├── Chem Journal/       # 化学学习笔记
 ├── Phy/                 # 物理学习笔记
 ├── Math/                # 数学学习笔记，待扩展
 ├── .obsidian/           # Obsidian 配置
