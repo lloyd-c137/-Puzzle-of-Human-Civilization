@@ -192,6 +192,22 @@ I am ready to move on when I can do all of these without looking at the answers:
 - [ ] Decide whether a result is consistent or inconclusive.
 - [ ] Explain one measurement error and how to reduce it.
 
+## Study note — Atomic structure
+
+- An **atom（原子）** is the basic unit of an element.
+- The **atomic nucleus（原子核）** is the center of the atom.
+- The nucleus contains **protons（质子）** and **neutrons（中子）**.
+- **Electrons（电子）** are found around the nucleus.
+- A proton has a positive charge; a neutron has no charge; an electron has a negative charge.
+- The number of protons determines which element the atom is.
+
+```text
+atom = nucleus + electrons
+nucleus = protons + neutrons
+```
+
+**Language note:** “proton” is **质子**. “正子” usually means **positron（正电子）**, which is not a normal component of an atom.
+
 ## Vocabulary added during study
 
 Add unfamiliar words to the separate vocabulary document in the root of the learning folder when they are explained.

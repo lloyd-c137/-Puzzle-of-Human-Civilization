@@ -1,161 +1,178 @@
-Here is the experiment exactly as described in the current document.
+The checklist is removed from the journal and listed directly below. The journal change synced to GitHub in commit `a9084b0`.
 
-## 1. Objective
+This list follows Chapter 1 of the Zumdahl textbook: :codex-file-citation{path="/Users/mac/Documents/obsidian-vault/01-learning/PHC/resources/Zumdahl Chemistry 9th c2014 txtbk.pdf" purpose="source"}
 
-You will measure the sample’s **density** and compare it with the reference densities of the candidate liquids.
+## 1.1 Chemistry: An Overview
 
-## 2. Safety gate
+- Chemistry
+- Matter
+- Atoms
+- Molecules
+- Chemical change
+- Properties of substances
+- Macroscopic observations
+- Microscopic explanations
 
-Before starting, confirm that:
+## 1.2 The Scientific Method
 
-- The sample is supervised and belongs to a known candidate list.
-- A supervisor approved the test.
-- PPE is available.
-- The balance, volume tool, thermometer, labels, spill tray, and waste container are ready.
-- There is no flame, heating, tasting, or mouth pipetting.
+- Scientific method
+- Observation
+- Qualitative observation
+- Quantitative observation
+- Measurement
+- Hypothesis
+- Experiment
+- Evidence
+- Prediction
+- Theory
+- Scientific model
+- Natural law
+- Law of conservation of mass
+- Difference between a scientific law and theory
+- Revising models using new evidence
 
-If anything is missing, record:
+## 1.3 Units of Measurement
 
-> **Not tested — safety requirement missing.**
+- SI system
+- Fundamental/base unit
+- Derived unit
+- Mass
+- Weight
+- Length
+- Time
+- Temperature
+- Electric current
+- Amount of substance
+- Luminous intensity
+- Volume
+- Liter (L)
+- Milliliter (mL)
+- Cubic centimeter (cm³)
+- Unit symbol
+- Metric prefix
+- Kilo-
+- Centi-
+- Milli-
+- Micro-
+- Nano-
+- Exponential notation
+- Scientific notation
+- Exact number
+- Difference between mass and weight
 
-## 3. Prepare the equipment
+## 1.4 Uncertainty in Measurement
 
-You need:
+- Measured value
+- Uncertainty
+- Certain digits
+- Uncertain digit
+- Estimated digit
+- Instrument precision
+- Instrument resolution
+- Significant figures
+- Accuracy
+- Precision
+- Random error
+- Systematic error
+- Meniscus
+- Reading a liquid level
+- Difference between accuracy and precision
+- Why an instrument limits the reported result
 
-- Balance
-- Clean, dry container with lid
-- Graduated cylinder or pipette
-- Thermometer
-- Labels and pen
-- Spill tray
-- Approved chemical-waste container
+## 1.5 Significant Figures and Calculations
 
-## 4. Record information
+- Significant-figure rules
+- Nonzero digits
+- Leading zeros
+- Captive zeros
+- Trailing zeros
+- Exact numbers
+- Rounding
+- Guard digits
+- Addition/subtraction decimal-place rule
+- Multiplication/division significant-figure rule
+- Uncertainty propagation
 
-Write down:
+## 1.6 Learning to Solve Problems Systematically
 
-- Sample code
-- Candidate list
-- Date
-- Sample temperature
+- Goal or target quantity
+- Known quantity
+- Unknown quantity
+- Equation
+- Relationship between quantities
+- Unit check
+- Estimate
+- Reasonableness check
+- Organized problem-solving sequence
+- Chemically meaningful answer
 
-## 5. Prepare the container
+## 1.7 Dimensional Analysis
 
-1. Label the container with the sample code.
-2. Place it in the spill tray.
-3. Put the clean, dry container and lid on the balance.
+- Unit factor
+- Conversion factor
+- Unit-factor method
+- Dimensional analysis
+- Unit cancellation
+- Converting mass units
+- Converting length units
+- Converting volume units
+- Converting temperature units
+- Using units to guide and check calculations
 
-You have two choices:
+## 1.8 Temperature
 
-- Press **tare** and set the balance to zero.
-- Or record the empty-container mass as \(m_1\).
+- Temperature
+- Celsius scale (°C)
+- Fahrenheit scale (°F)
+- Kelvin scale (K)
+- Absolute zero
+- Temperature interval
+- Celsius–Fahrenheit conversion
+- Celsius–Kelvin conversion
+- Effect of temperature on density
+- Matching the sample temperature with the reference density
 
-## 6. Measure the volume
+## 1.9 Density
 
-Measure the same volume for every trial.
+- Density
+- Mass per unit volume
+- Liquid density
+- Reference density
+- Accepted density
+- Density as a physical-property identification tag
+- Density equation
+- g/mL
+- g/cm³
+- Relationship between mL and cm³
+- Calculating mass from density
+- Calculating volume from density
+- Why density supports, but does not prove, identity
 
-Use **10.00 mL** unless the supervisor specifies another volume.
+## 1.10 Classification of Matter
 
-## 7. Measure the mass
-
-Transfer the liquid into the container and close the lid.
-
-- If you used tare, record the liquid mass directly as \(m_2\).
-- If you did not use tare, record the container-plus-liquid mass as \(m_3\).
-
-Then calculate:
-
-$$
-m_{\text{liquid}}
-=
-m_{\text{container+liquid}}
--
-m_{\text{empty container}}
-$$
-
-## 8. Record observations and dispose of the sample
-
-Record visible observations.
-
-Do not deliberately smell the sample.
-
-Dispose of it according to the supervisor’s instructions. Do not return it to the original container or pour it into a sink.
-
-Clean and dry the container as instructed, or use another clean container.
-
-## 9. Repeat the experiment
-
-Repeat the measurement until you have **three trials**.
-
-Use the same volume and the same method each time.
-
-Stop and notify the supervisor if there is:
-
-- Spill
-- Strong vapor
-- Pressure
-- Heating
-- Reaction
-- Leak
-- Other unexpected change
-
-## 10. Calculate each density
-
-For each trial:
-
-$$
-D=\frac{m_{\text{liquid}}}{V}
-$$
-
-where:
-
-- \(D\) is density
-- \(m_{\text{liquid}}\) is liquid mass
-- \(V\) is liquid volume
-
-## 11. Calculate the mean and range
-
-Mean density:
-
-$$
-\bar{D}=
-\frac{D_1+D_2+D_3}{3}
-$$
-
-Range:
-
-$$
-\text{range}
-=
-D_{\text{highest}}
--
-D_{\text{lowest}}
-$$
-
-Record:
-
-- Mean density
-- Range
-- Sample temperature
-- Comparison tolerance
-
-## 12. Compare with candidates
-
-Use reference densities measured at the same or a similar temperature.
-
-For each candidate, calculate:
-
-$$
-\Delta=
-\left|\bar{D}-D_{\text{reference}}\right|
-$$
-
-Mark **Fits** when the absolute difference is no greater than the supervisor’s comparison tolerance.
-
-## 13. Decide the result
-
-- If exactly one candidate fits, report: **“consistent with [candidate].”**
-- If two or more candidates fit, report: **“inconclusive — density cannot distinguish the candidates.”**
-- If no candidate fits, report: **“inconclusive — check the measurements, temperature, sample, and candidate list.”**
-
-The final conclusion should state the sample code, mean density, temperature, range, and result.
+- Classification of matter
+- Solid
+- Liquid
+- Gas
+- State of matter
+- Pure substance
+- Mixture
+- Homogeneous mixture
+- Heterogeneous mixture
+- Solution
+- Element
+- Compound
+- Constant composition
+- Physical property
+- Physical change
+- Chemical property
+- Chemical change
+- Physical separation
+- Distillation
+- Filtration
+- Chromatography
+- Paper chromatography
+- Stationary phase
+- Mobile phase
+- Volatile substance
+- Separating mixtures before chemical analysis
