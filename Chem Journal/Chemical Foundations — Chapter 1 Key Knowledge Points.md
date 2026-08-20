@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 化学基础——第一章重点知识
+title: Chemical Foundations — Chapter 1 Key Knowledge Points
 permalink: /chemistry/chemical-foundations-key-points/
-description: Zumdahl Chemistry 第一章的核心知识。
+description: Key knowledge points from Zumdahl Chemistry Chapter 1.
 ---
 
 化学研究物质、物质的性质以及物质发生的变化。科学研究通常包括观察、提出问题、假设、实验、证据和结论；测量必须使用统一单位，并注意不确定度、准确度、精密度和有效数字。做计算时，要写清已知量、未知量和单位，用量纲分析检查单位是否正确，并在最后一步按有效数字进行舍入。
