@@ -14,7 +14,7 @@ This journal records my actual learning journey—not just completed tasks. It s
 
 ### Date
 
-2026-08-21
+2026-08-20
 
 ### Subject and topic
 
@@ -76,7 +76,7 @@ Carry out the shadow measurement of Earth’s circumference, then begin Chapter 
 
 | Date | Topic | Mistake | Correction |
 |---|---|---|---|
-| 2026-08-21 | Equations and scientific explanations | I viewed equations mainly as calculation recipes and assumed a reasonable claim was scientific. | Equations express testable relationships; scientific claims must make predictions and be open to disconfirmation. |
+| 2026-08-20 | Equations and scientific explanations | I viewed equations mainly as calculation recipes and assumed a reasonable claim was scientific. | Equations express testable relationships; scientific claims must make predictions and be open to disconfirmation. |
 
 ### Questions
 
@@ -87,6 +87,6 @@ Carry out the shadow measurement of Earth’s circumference, then begin Chapter 
 
 | Date | Subject | Topic | Current progress | Next step |
 |---|---|---|---|---|
-| 2026-08-21 | Physics | Chapter 1: About Science | Exploring | Complete the shadow experiment and start Chapter 2. |
+| 2026-08-20 | Physics | Chapter 1: About Science | Exploring | Complete the shadow experiment and start Chapter 2. |
 
 Keep entries focused on content and progress. Use only the sections that are useful for that learning session.

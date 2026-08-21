@@ -10,14 +10,25 @@ summary: A safety-first density experiment for comparing a supervised classroom 
 
 ## Objective
 
-Measure the sample's density and compare it with the supplied candidate liquids.
+Measure the sample's density and compare it with the four supervisor-approved candidates.
+
+## Candidate list
+
+The candidate set is:
+
+- **NaCl** — sodium chloride
+- **Na₂CO₃** — sodium carbonate
+- **NaOH** — sodium hydroxide
+- **H₂SO₄** — sulfuric acid
+
+Use only labeled, supervisor-approved samples or prepared solutions. Do not prepare, dilute, combine, or test these chemicals independently. NaOH and H₂SO₄ can be corrosive. The concentration or physical form of each candidate must be recorded because the correct reference density depends on both concentration and temperature.
 
 ## Safety gate
 
 Proceed only when all boxes are checked:
 
 - [ ] The sample is a supervised classroom/laboratory sample.
-- [ ] The sample has a code and belongs to a known candidate list.
+- [ ] The sample has a code and belongs to the candidate list: NaCl, Na₂CO₃, NaOH, or H₂SO₄.
 - [ ] A supervisor approved the test and provided waste instructions.
 - [ ] Goggles, gloves, and a lab coat/apron are available.
 - [ ] The balance, volume tool, thermometer, labels, spill tray, and waste container are ready.
@@ -108,9 +119,10 @@ Mark **Fits** only when the absolute difference is no greater than the superviso
 
 | Candidate | Reference density (g/mL) | Absolute difference (g/mL) | Fits? |
 |---|---:|---:|---|
-|  |  |  | Yes / No |
-|  |  |  | Yes / No |
-|  |  |  | Yes / No |
+| NaCl |  |  | Yes / No |
+| Na₂CO₃ |  |  | Yes / No |
+| NaOH |  |  | Yes / No |
+| H₂SO₄ |  |  | Yes / No |
 
 ## Result rule
 

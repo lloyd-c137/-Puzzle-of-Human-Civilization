@@ -287,6 +287,205 @@ $$
 - [ ] 用表格、图像和文字解释一个实验结果。
 - [ ] 为每个结论写出数据依据和不确定性。
 
+## Previous conversation entries
+
+### Learning entry — Fuel efficiency and total cost
+
+#### Date
+
+2026-08-21
+
+#### Subject and topic
+
+Mathematics — Unit rates, fuel efficiency, and total cost
+
+#### Source or activity
+
+Roselyn’s 150-kilometer drive word problem.
+
+#### What I already understood
+
+Fuel efficiency connects distance and liters, but I was unsure whether the question wanted only the extra fuel purchased or the value of all fuel used.
+
+#### What I learned
+
+The drive needs \(150/6=25\) L. Roselyn starts with 20 L, so she buys only 5 L. Because the question includes the starting fuel, the total cost is \(25\times\$0.60=\$15\). Average speed is not needed for fuel cost.
+
+#### My understanding now
+
+I can distinguish the additional purchase (\(5\) L and \(\$3\)) from the total value of all fuel used (\(25\) L and \(\$15\)).
+
+#### Mistake or confusion
+
+I initially focused on the 5 L purchased and thought the answer should be \(\$3\).
+
+#### Correction
+
+“Including the fuel she starts with” means the original 20 L must also be included.
+
+#### Confidence
+
+High — I can separate total quantity from additional quantity.
+
+#### Progress
+
+Applied
+
+#### Next focus
+
+Practice more word problems involving total, additional, and remaining amounts.
+
+### Learning entry — Rice unit price and spice ratio
+
+#### Date
+
+2026-08-21
+
+#### Subject and topic
+
+Mathematics — Unit price, decimal places, and ratios
+
+#### Source or activity
+
+David’s rice-and-spice word problem.
+
+#### What I already understood
+
+Ten servings of 75 g each require multiplication, but I needed help finding price per gram and using the ratio.
+
+#### What I learned
+
+The rice amount is \(10\times75=750\) g. The rice price is \(\$4.50/750=\$0.006\) per gram. The \(15:1\) ratio requires \(750/15=50\) g of spice, so David needs 10 g more than the 40 g he has.
+
+#### My understanding now
+
+A unit price means cost for one unit: divide total cost by total quantity and keep the unit.
+
+#### Mistake or confusion
+
+I first wrote \(\$0.06\) instead of \(\$0.006\) per gram.
+
+#### Correction
+
+Multiplying \(\$0.06\) by 750 g gives \(\$45\), which is ten times too large. The correct unit price is \(\$0.006\)/g.
+
+#### Confidence
+
+Medium — I understand the method, but decimal placement needs checking.
+
+#### Progress
+
+Applied
+
+#### Next focus
+
+Practice unit prices in dollars, cents, grams, liters, and kilometers.
+
+### Learning entry — Degrees per millisecond
+
+#### Date
+
+2026-08-21
+
+#### Subject and topic
+
+Mathematics — Converting rates from milliseconds to seconds
+
+#### Source or activity
+
+Pitcher’s-arm rotation word problem.
+
+#### What I already understood
+
+A millisecond is shorter than a second, but I needed to understand the wording and the direction of the conversion.
+
+#### What I learned
+
+Since \(1\text{ s}=1000\text{ ms}\), then:
+
+$$
+7\frac{\text{degrees}}{\text{ms}}
+\times\frac{1000\text{ ms}}{1\text{ s}}
+=7000\frac{\text{degrees}}{\text{s}}
+$$
+
+#### My understanding now
+
+Changing from “per millisecond” to “per second” makes the number larger because one second contains 1,000 milliseconds. The units must cancel.
+
+#### Mistake or confusion
+
+I wondered whether a person’s arm could physically move at that speed.
+
+#### Correction
+
+The exercise is testing unit conversion, not continuous full rotations of a human arm.
+
+#### Confidence
+
+Medium — I understand this conversion but need practice in both directions.
+
+#### Progress
+
+Applied
+
+#### Next focus
+
+Practice dimensional analysis with seconds, minutes, hours, and milliseconds.
+
+### Learning entry — Engagement per writer
+
+#### Date
+
+2026-08-21
+
+#### Subject and topic
+
+Statistics — Comparing engagement per writer
+
+#### Source or activity
+
+Charlotte’s two entertainment websites problem.
+
+#### What I already understood
+
+The table gave writers, posts, likes, and comments, but “engagement per writer” was unclear.
+
+#### What I learned
+
+Two definitions are average likes per writer and average comments per writer:
+
+$$
+\text{per writer}
+=\frac{\text{posts}\times\text{average per post}}{\text{writers}}
+$$
+
+Website A has 77,000 likes/writer and 11,000 comments/writer. Website B has about 63,636 likes/writer and 8,182 comments/writer.
+
+#### My understanding now
+
+To calculate a quantity “per writer,” find the total amount first, then divide by the number of writers.
+
+#### Mistake or confusion
+
+I did not initially understand the two definitions and selected the conclusion that they had opposite results.
+
+#### Correction
+
+Both calculations favor Website A. The correct choices are average likes per writer, average comments per writer, and the conclusion that Website A is higher by both definitions.
+
+#### Confidence
+
+Medium — I can follow the calculation but need more practice translating wording into formulas.
+
+#### Progress
+
+Applied
+
+#### Next focus
+
+Identify the numerator, denominator, and unit in “per person,” “per post,” and “per hour” problems.
+
 ## Learning entries
 
 ### Date
@@ -357,6 +556,9 @@ Read and create bar graphs using both frequency and relative frequency, then beg
 - Frequency versus relative frequency
 - Bar graph versus histogram
 - When to compare counts and when to compare percentages
+- Total quantity versus additional quantity
+- Unit price and decimal-place checking
+- Numerator and denominator in “per” problems
 
 ### Mistakes and corrections
 
@@ -364,6 +566,8 @@ Read and create bar graphs using both frequency and relative frequency, then beg
 |---|---|---|---|
 | 2026-08-21 | Fuel cost | Confused the 5 L purchased during the trip with the total cost of all fuel used. | 5 L costs $3 during the trip; including the starting 20 L, all 25 L have a total value of $15. |
 | 2026-08-21 | Unit price | Wrote $0.06 instead of $0.006 per gram for the rice. | Multiply the unit price back by 750 g; $0.06 would give $45, so the correct decimal is $0.006/g. |
+| 2026-08-21 | Unit conversion | Wondered whether the pitcher’s arm speed was physically realistic instead of first completing the unit conversion. | Treat the given rate as a conversion exercise: \(7\) degrees/ms equals \(7000\) degrees/s. |
+| 2026-08-21 | Engagement per writer | Did not initially know how to define engagement per writer and selected the opposite-results conclusion. | Calculate total likes or comments, divide by writers, and compare the same unit rate for both websites. |
 | 2026-08-21 | Individuals and identifiers | Treated “student name” as the individual or as the main variable. | The student is the individual; the name identifies the row, while teacher and absences are recorded variables. |
 
 ### Questions
@@ -371,6 +575,8 @@ Read and create bar graphs using both frequency and relative frequency, then beg
 - When should I use a relative-frequency graph instead of a frequency graph?
 - How can I recognize a misleading graph scale?
 - How do I compare two categorical distributions fairly?
+- How do I recognize whether a word problem asks for total cost or additional cost?
+- How do I know whether a rate conversion requires multiplication or division?
 
 ### Progress summary
 
@@ -378,5 +584,7 @@ Read and create bar graphs using both frequency and relative frequency, then beg
 |---|---|---|---|---|
 | 2026-08-21 | Mathematics | Fuel efficiency and unit rates | Applied | Practice another unit-rate word problem. |
 | 2026-08-21 | Mathematics | Unit prices and ratios | Applied | Identify distractor information in a new problem. |
+| 2026-08-21 | Mathematics | Rate conversion: milliseconds to seconds | Applied | Practice dimensional analysis in the reverse direction. |
+| 2026-08-21 | Statistics | Engagement per writer | Applied | Translate more “per” phrases into formulas. |
 | 2026-08-21 | Statistics | Individuals, variables, and data types | Partly understood | Classify more examples independently. |
 | 2026-08-21 | Statistics | Bar graphs for categorical data | Exploring | Create and interpret a frequency and relative-frequency bar graph. |
