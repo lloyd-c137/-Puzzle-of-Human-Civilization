@@ -6,6 +6,7 @@
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description | escape }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if page.stylesheet %}<link rel="stylesheet" href="{{ '/assets/css/' | append: page.stylesheet | append: '.css' | relative_url }}">{% endif %}
     <script>
       window.MathJax = {
         tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']] },
@@ -21,6 +22,7 @@
         <nav class="site-nav" aria-label="Main navigation">
           <a href="{{ '/' | relative_url }}">Directory</a>
           <a href="{{ '/' | relative_url }}#chemistry">Chemistry</a>
+          <a href="{{ '/chemistry/liquid-type-test-lab/' | relative_url }}">Liquid Lab</a>
           <a href="{{ '/' | relative_url }}#physics">Physics</a>
           <a href="{{ '/' | relative_url }}#mathematics">Mathematics</a>
           <a href="{{ '/' | relative_url }}#biology">Biology</a>

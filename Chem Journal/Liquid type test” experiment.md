@@ -12,6 +12,8 @@ summary: A safety-first density experiment for comparing a supervised classroom 
 
 Measure the sample's density and compare it with the four supervisor-approved candidates.
 
+Use the [Liquid Type Test Interactive Lab](/Puzzle-of-Human-Civilization/chemistry/liquid-type-test-lab/) to follow each stage, calculate the results, and save the experiment record in the browser's SQLite database.
+
 ## Candidate list
 
 The candidate set is:
