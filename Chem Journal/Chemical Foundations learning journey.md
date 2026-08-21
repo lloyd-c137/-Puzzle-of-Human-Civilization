@@ -1,227 +1,95 @@
 ---
 layout: default
-title: Chemical Foundations Learning Journey
+title: Chemical Foundations Learning Journal
 permalink: /chemistry/chemical-foundations-journey/
 section: Chemistry
-summary: A living study plan for measurement, SI units, uncertainty, precision, density, matter, and the Liquid Type Test Experiment.
+summary: A record of my actual learning, misunderstandings, corrections, questions, and progress in Chemical Foundations.
 ---
 
-# Chemical Foundations — Learning Journey
+# Learning Journal
 
-**Book:** Zumdahl, *Chemistry*, 9th Edition  
-**Purpose:** Build the measurement, reasoning, and calculation skills needed for the Liquid Type Test Experiment.
+## Purpose
 
-This document is a living plan. We will update the checkboxes, vocabulary, mistakes, and next steps as we study.
+This journal records my actual learning journey—not just completed tasks. It shows what I understand, what I misunderstand, how my thinking changes, and what I need to learn next.
 
-## Final learning goal
+## Learning entry
 
-By the end of this chapter, I should be able to:
+### Date
 
-- describe how observation, models, measurement, and evidence work together;
-- use SI units and convert between units;
-- record measurements with appropriate precision;
-- explain uncertainty, accuracy, and precision;
-- calculate density from mass and volume;
-- classify matter as a pure substance or mixture;
-- design and interpret the basic data table for the Liquid Type Test Experiment.
+2026-08-21
 
-## How we will study each stage
+### Subject and topic
 
-For every stage:
+Chemistry — Atoms, molecules, elements, compounds, and pure substances
 
-1. Learn the words and ideas.
-2. Explain the idea in my own words.
-3. Complete a short calculation or data task.
-4. Record questions and mistakes.
-5. Mark the stage complete only when I can do the check without help.
+### Source or activity
 
-## Stage 0 — Orientation
+Zumdahl, *Chemistry*, 9th Edition, Chapter 1 “Chemical Foundations”; guided learning discussion.
 
-- [x] Find Chapter 1 in my copy of Zumdahl.
-- [x] Record the section titles and printed page numbers from the 2014 PDF edition:
-  - 1.1 Chemistry: An Overview — p. 3
-  - 1.2 The Scientific Method — p. 5
-  - 1.3 Units of Measurement — p. 8
-  - 1.4 Uncertainty in Measurement — p. 11
-  - 1.5 Significant Figures and Calculations — p. 14
-  - 1.6 Learning to Solve Problems Systematically — p. 18
-  - 1.7 Dimensional Analysis — p. 18
-  - 1.8 Temperature — p. 22
-  - 1.9 Density — p. 26
-  - 1.10 Classification of Matter — p. 27
-- [ ] Understand the chapter question: how do chemists measure, represent, and reason about matter?
+### What I already understood
 
-**Output:** Chapter 1 section and page list.
+I already understood that matter has mass and occupies space. From the Liquid Type Test Experiment, I also knew that mass, volume, temperature, and density are important measurements.
 
-## Stage 1 — Scientific thinking
+### What I learned
 
-Learn:
+An atom is the smallest unit of an element that keeps that element’s identity. An atom contains a nucleus and electrons. The nucleus contains positively charged protons and neutral neutrons; negatively charged electrons are found around the nucleus. A molecule is made of two or more chemically joined atoms. An element contains one type of atom, while a compound contains different elements chemically joined in a fixed ratio. A pure substance has a fixed composition and consistent properties.
 
-- observation;
-- evidence;
-- model;
-- hypothesis or proposed explanation;
-- variable;
-- controlled condition;
-- repeated trial;
-- conclusion.
+### My understanding now
 
-Connect to the experiment:
+I understand the structure and relationship of these ideas: atoms can join to form molecules; one type of atom forms an element; different elements chemically joined form a compound; and an element or compound can be a pure substance. The number of protons identifies the element, while the charges are positive for protons, neutral for neutrons, and negative for electrons.
 
-- Question: Which candidate liquid is consistent with the sample’s density?
-- Measurements: mass, volume, and temperature.
-- Repetition: three trials.
-- Evidence: calculated density and comparison with references.
-- Conclusion: “consistent with” or “inconclusive.”
+### Example, evidence, or application
 
-**Check:** Explain why density evidence does not prove complete chemical identity.
+O₂ is an element because it contains only oxygen atoms. H₂O is a compound because it contains hydrogen and oxygen in a fixed ratio. In the liquid experiment, density can help compare a sample with a candidate substance, but density alone cannot prove the sample’s chemical identity.
 
-- [ ] I can explain the experiment’s question, measurements, evidence, and conclusion.
+### Mistake or confusion
 
-## Stage 2 — Units and dimensional analysis
+I first confused the nucleus with the atom and thought the nucleus was the smallest unit that keeps an element’s identity. I also temporarily reversed the charges of the neutron and electron. I confused “质子” (proton) with “正子” (positron).
 
-Learn:
+### Correction
 
-- SI units;
-- mass in grams (g);
-- volume in milliliters (mL);
-- temperature in degrees Celsius (°C);
-- unit conversion;
-- dimensional analysis.
+The atom—not the nucleus—is the smallest unit of an element that keeps its identity. The nucleus is the central part of the atom. A proton is positive, a neutron has no charge, and an electron is negative. “质子” means proton; “正子” usually means positron, which is not a normal component of an atom.
 
-**Practice:** Convert simple measurements while keeping the units visible at every step.
+### Question
 
-- [ ] I can identify the unit of every quantity in the experiment.
-- [ ] I can convert units without losing or inventing units.
+What is the difference between a physical property and a chemical property, and how is a physical change different from a chemical change?
 
-## Stage 3 — Measurement and uncertainty
+### Confidence
 
-Learn:
+High for the basic structure and definitions, because I can explain the relationships and correct my earlier mistakes. I still need practice applying these ideas to physical and chemical changes.
 
-- measured value;
-- uncertainty;
-- significant figures;
-- accuracy;
-- precision;
-- random error;
-- systematic error;
-- instrument resolution.
+### Progress
 
-Connect to the experiment:
+Understood — I can explain the basic atomic structure and distinguish atoms, molecules, elements, compounds, and pure substances.
 
-- The balance measures mass.
-- The volume tool measures volume.
-- Every measurement has limited precision.
-- Repeated trials help show consistency.
+### Next focus
 
-**Check:** Explain the difference between accuracy and precision using three repeated measurements.
+Physical properties, chemical properties, physical changes, and chemical changes.
 
-- [ ] I can record a measurement without adding unsupported digits.
-- [ ] I can distinguish accuracy from precision.
-- [ ] I can identify a possible random or systematic error.
+## Ongoing records
 
-## Stage 4 — Temperature and density
+### Concepts to revisit
 
-Learn:
+- Scientific method
+- Physical properties and chemical properties
+- Physical changes and chemical changes
+- Mixtures and methods of separation
+- Density evidence and the limits of identification
 
-- temperature;
-- mass;
-- volume;
-- density;
-- reference density;
-- density units.
+### Mistakes and corrections
 
-Core equation:
-
-$$
-D = \frac{m}{V}
-$$
-
-For the experiment:
-
-$$
-m_{\text{liquid}} = m_{\text{container+liquid}} - m_{\text{empty container}}
-$$
-
-$$
-D = \frac{m_{\text{liquid}}}{V}
-$$
-
-- [ ] I can calculate liquid mass when the balance was not tared.
-- [ ] I can calculate density from mass and volume.
-- [ ] I can explain why reference temperature matters.
-
-## Stage 5 — Matter and mixtures
-
-Learn:
-
-- matter;
-- pure substance;
-- mixture;
-- homogeneous mixture;
-- physical property;
-- chemical identity.
-
-Connect to the experiment:
-
-Density is a physical property. A mixture may have a density that does not match the density of any pure candidate.
-
-- [ ] I can distinguish a pure substance from a mixture.
-- [ ] I can explain why the experiment reports “consistent with” rather than “proved to be.”
-
-## Stage 6 — Apply the chapter to the experiment
-
-Complete the Liquid Type Test Experiment using the separate protocol document.
-
-- [ ] Safety gate completed.
-- [ ] Sample code, candidate list, date, and temperature recorded.
-- [ ] Three trials completed.
-- [ ] Liquid mass calculated for each trial.
-- [ ] Density calculated for each trial.
-- [ ] Mean density and range calculated.
-- [ ] Candidate differences compared with the supervisor’s tolerance.
-- [ ] Conclusion written using the required result rule.
-
-## Stage 7 — Chapter mastery check
-
-I am ready to move on when I can do all of these without looking at the answers:
-
-- [ ] Define mass, volume, density, matter, uncertainty, accuracy, and precision.
-- [ ] Explain tare and calculate liquid mass by subtraction.
-- [ ] Use $D=m/V$ with correct units.
-- [ ] Calculate a mean and a range from three trials.
-- [ ] Explain why temperature and reference values must match.
-- [ ] Decide whether a result is consistent or inconclusive.
-- [ ] Explain one measurement error and how to reduce it.
-
-## Study note — Atomic structure
-
-- An **atom（原子）** is the basic unit of an element.
-- The **atomic nucleus（原子核）** is the center of the atom.
-- The nucleus contains **protons（质子）** and **neutrons（中子）**.
-- **Electrons（电子）** are found around the nucleus.
-- A proton has a positive charge; a neutron has no charge; an electron has a negative charge.
-- The number of protons determines which element the atom is.
-
-```text
-atom = nucleus + electrons
-nucleus = protons + neutrons
-```
-
-**Language note:** “proton” is **质子**. “正子” usually means **positron（正电子）**, which is not a normal component of an atom.
-
-## Vocabulary added during study
-
-Add unfamiliar words to the separate vocabulary document in the root of the learning folder when they are explained.
-
-## Questions and mistakes
-
-| Date | Question or mistake | Explanation/correction | Resolved? |
+| Date | Topic | Mistake | Correction |
 |---|---|---|---|
-|  |  |  |  |
+| 2026-08-21 | Atom and nucleus | I said the nucleus was the smallest unit that keeps an element’s identity. | The atom is the smallest unit; the nucleus is only the atom’s central part. |
+| 2026-08-21 | Charges of particles | I confused the charges of the neutron and electron. | The proton is positive, the neutron is neutral, and the electron is negative. |
+| 2026-08-21 | Chinese terminology | I used “正子” for proton. | Proton is “质子”; “正子” usually means positron. |
 
-## Progress log
+### Questions
 
-| Date | Stage studied | What I can now explain or do | Next step |
-|---|---|---|---|
-| 2026-08-20 | 1.1 Chemistry: An Overview | Explain atoms, the nucleus, protons, neutrons, electrons, molecules, elements, and compounds. | Learn chemical change and physical properties, then begin the scientific method. |
+- How can I identify whether an observed change is physical or chemical?
+
+### Progress summary
+
+| Date | Subject | Topic | Current progress | Next step |
+|---|---|---|---|---|
+| 2026-08-21 | Chemistry | Atomic structure and classification of substances | Understood the basic concepts and corrected key misunderstandings. | Learn physical and chemical properties and changes. |

@@ -1,35 +1,89 @@
 ---
 layout: default
-title: Physics Learning Journal
+title: Learning Journal
 permalink: /physics/learning-journal/
-section: Physics
-summary: A conceptual physics journal connecting measurement, astronomy, time, evidence, energy, and technology.
 ---
 
-我选 **中阶物理路径（Conceptual Physics）**
+# Learning Journal
 
-因为我希望在理解基本概念的基础上，逐步建立测量、观察、图表、比例和基础数学能力，并理解物理学如何连接天文学、时间、人类文明、能源与技术。
+## Purpose
 
-我感兴趣的物理 topic
+This journal records my actual learning journey—not just completed tasks. It should show what I understand, what I misunderstand, how my thinking changes, and what I need to learn next.
 
-1. **Time, Measurement, and Astronomy**
-   - How can simple observations of shadows, the Sun, and the Moon help us understand time and the scale of the universe?
+## Learning entry
 
-2. **Pinhole Images and the Size of the Sun**
-   - Why do small openings under trees create round images of the Sun?
+### Date
 
-3. **Science, Technology, and Evidence**
-   - How can measurements help us distinguish a scientific explanation from an unsupported claim?
+[Date]
 
-我想做的物理实验
+### Subject and topic
 
-1. **Eratosthenes’ Earth-Circumference Experiment**
-   - Measure the height of a stick and the length of its shadow, then estimate Earth’s circumference through geometry and comparison with another location.
+[Subject] — [Topic]
 
-2. **Pinhole Projection of the Sun**
-   - Use indirect projection to investigate the relationship between image size and distance. Never look directly at the Sun.
+### Source or activity
 
-3. **Coin-and-Moon Measurement**
-   - Use a coin to estimate the Moon’s apparent size, repeat the measurement, and analyze uncertainty.
+[Book, lesson, video, experiment, discussion, or problem]
 
-我希望借助物理学习，帮我建立从观察、测量、提出问题到验证解释的思维模式，并形成能够迁移到天文学、化学、能源和其他科学领域的能力。
+### What I already understood
+
+[Starting understanding]
+
+### What I learned
+
+[Main content and important ideas]
+
+### My understanding now
+
+[Explain the topic in my own words]
+
+### Example, evidence, or application
+
+[Example, observation, data, calculation, or real-world connection]
+
+### Mistake or confusion
+
+[What I misunderstood or found difficult]
+
+### Correction
+
+[Correct understanding and how I know it is correct]
+
+### Question
+
+[What I still want to understand]
+
+### Confidence
+
+[Low / medium / high, with a short reason]
+
+### Progress
+
+[Not started / exploring / partly understood / understood / applied / needs review]
+
+### Next focus
+
+[The next small topic or question]
+
+## Ongoing records
+
+### Concepts to revisit
+
+- 
+
+### Mistakes and corrections
+
+| Date | Topic | Mistake | Correction |
+|---|---|---|---|
+| | | | |
+
+### Questions
+
+- 
+
+### Progress summary
+
+| Date | Subject | Topic | Current progress | Next step |
+|---|---|---|---|---|
+| | | | | |
+
+Keep entries focused on content and progress. Use only the sections that are useful for that learning session.

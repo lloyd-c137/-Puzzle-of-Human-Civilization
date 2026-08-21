@@ -287,21 +287,96 @@ $$
 - [ ] 用表格、图像和文字解释一个实验结果。
 - [ ] 为每个结论写出数据依据和不确定性。
 
-## Study log
+## Learning entries
 
-| Date | Topic | What I understand now | Practice or evidence | Next step |
+### Date
+
+2026-08-21
+
+### Subject and topic
+
+Statistics — Individuals, variables, categorical and quantitative data, and bar graphs
+
+### Source or activity
+
+Khan Academy AP/College Statistics: “Individuals, variables, and categorical & quantitative data” and “Representing a categorical variable with graphs,” plus worked examples and discussion.
+
+### What I already understood
+
+I understood that some data uses categories and some data uses numbers, but I was not yet clear about the difference between an individual, a variable, and a name used to identify an individual. I also needed practice reading and creating bar graphs.
+
+### What I learned
+
+- An **individual** is the person or object described by one row of data.
+- A **variable** is a characteristic recorded about each individual.
+- **Categorical data** uses groups or labels, such as transportation type or favorite subject.
+- **Quantitative data** uses meaningful numerical amounts, such as absences, revenue, or number of comments.
+- A name can identify an individual without being the characteristic the statistics question analyzes.
+- A bar graph represents categorical frequencies or relative frequencies with separate bars.
+- Percentages are more useful than raw counts when comparing groups with different sample sizes.
+
+### My understanding now
+
+I can ask “What does one row represent?” to find the individuals. Then I can ask whether each recorded value is a label/group or a meaningful amount. Labels are categorical; meaningful amounts are quantitative. For a categorical variable, I can organize the counts in a frequency table and display them with a bar graph.
+
+### Example, evidence, or application
+
+In the school-counselor table, each student is an individual. The student name identifies the student. Homeroom teacher is categorical, while number of absences is quantitative.
+
+For a transportation survey with Bus (8), Car (5), Walk (3), and Bicycle (4), the bar for Bus is tallest and the bar for Walk is shortest. The total sample is (20), so 8 bus riders represent (8/20=40\%\).
+
+### Mistake or confusion
+
+I was confused about why “student name” was not the answer when identifying the individuals. I also needed to separate the idea of a name used as an identifier from a variable being studied.
+
+### Correction
+
+The individuals are the **students**. A student name tells us which student a row belongs to. In this exercise, homeroom teacher and absences are the variables being described. A name could technically be stored as categorical data, but here it functions as an identifier.
+
+### Question
+
+When two groups have different sample sizes, how do I decide whether to compare counts or relative frequencies? I also want more practice distinguishing a bar graph from a histogram.
+
+### Confidence
+
+Medium. I can explain the basic definitions and make simple classifications, but I need more independent practice reading graphs and choosing between counts and percentages.
+
+### Progress
+
+Partly understood
+
+### Next focus
+
+Read and create bar graphs using both frequency and relative frequency, then begin comparing two categorical distributions.
+
+## Ongoing records
+
+### Concepts to revisit
+
+- Identifier versus variable
+- Frequency versus relative frequency
+- Bar graph versus histogram
+- When to compare counts and when to compare percentages
+
+### Mistakes and corrections
+
+| Date | Topic | Mistake | Correction |
+|---|---|---|---|
+| 2026-08-21 | Fuel cost | Confused the 5 L purchased during the trip with the total cost of all fuel used. | 5 L costs $3 during the trip; including the starting 20 L, all 25 L have a total value of $15. |
+| 2026-08-21 | Unit price | Wrote $0.06 instead of $0.006 per gram for the rice. | Multiply the unit price back by 750 g; $0.06 would give $45, so the correct decimal is $0.006/g. |
+| 2026-08-21 | Individuals and identifiers | Treated “student name” as the individual or as the main variable. | The student is the individual; the name identifies the row, while teacher and absences are recorded variables. |
+
+### Questions
+
+- When should I use a relative-frequency graph instead of a frequency graph?
+- How can I recognize a misleading graph scale?
+- How do I compare two categorical distributions fairly?
+
+### Progress summary
+
+| Date | Subject | Topic | Current progress | Next step |
 |---|---|---|---|---|
-| 2026-08-21 | Fuel efficiency and unit rates | Convert distance and km/L into total liters, then multiply by cost per liter. Distinguish total fuel cost from the cost of additional fuel purchased. | Solved the 150-km, 6-km/L, $0.60/L problem: 25 L total, $15 total cost, 5 L purchased along the way. | Practice a similar word problem with a different efficiency or fuel price. |
-| 2026-08-21 | Unit rates and ratios | Divide total cost by total quantity for a unit price, check decimal places by multiplying back, and keep unrelated ratio information separate. | Solved the rice problem: 750 g rice, $0.006/g, and 50 g spice required by the 15:1 ratio. | Practice another unit-price problem and identify which given values are distractors. |
-| 2026-08-21 | Comparing quantities per person | Find total likes or comments first, then divide by the number of writers. Compare the resulting unit rates. | Website A has 77,000 likes/writer and 11,000 comments/writer; Website B has about 63,636 likes/writer and 8,182 comments/writer. | Practice identifying whether two definitions produce the same or opposite ranking. |
-|  |  |  |  |  |
-
-## Error log
-
-| Date | Problem or mistake | Why it happened | Correction | Can I do it again? |
-|---|---|---|---|---|
-|  |  |  |  |  |
-
-## Questions to revisit
-
-- 
+| 2026-08-21 | Mathematics | Fuel efficiency and unit rates | Applied | Practice another unit-rate word problem. |
+| 2026-08-21 | Mathematics | Unit prices and ratios | Applied | Identify distractor information in a new problem. |
+| 2026-08-21 | Statistics | Individuals, variables, and data types | Partly understood | Classify more examples independently. |
+| 2026-08-21 | Statistics | Bar graphs for categorical data | Exploring | Create and interpret a frequency and relative-frequency bar graph. |
