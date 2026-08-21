@@ -280,6 +280,7 @@ The completion marker records course progress; it does not replace understanding
 | Macroinvertebrate | 大型无脊椎动物 | An animal without a backbone that is large enough to see without a microscope; many live in water. |
 | Tolerance | 耐受性 | The ability to survive variation in an environmental factor. |
 | Tolerance range | 耐受范围 | The span of conditions in which an organism can survive for a particular factor. |
+| Limits of tolerance | 耐受限度；耐受界限 | The lowest and highest values of an environmental factor that an organism can survive. |
 | Optimal condition | 最适条件 | An environmental condition in which an organism can survive and reproduce successfully. |
 | Stressful condition | 胁迫条件 | A condition near the limits of tolerance that may reduce growth or reproduction. |
 | Extreme condition | 极端条件 | A condition beyond an organism's tolerance limits in which it cannot survive. |

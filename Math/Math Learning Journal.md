@@ -323,7 +323,7 @@ I can ask “What does one row represent?” to find the individuals. Then I can
 
 In the school-counselor table, each student is an individual. The student name identifies the student. Homeroom teacher is categorical, while number of absences is quantitative.
 
-For a transportation survey with Bus (8), Car (5), Walk (3), and Bicycle (4), the bar for Bus is tallest and the bar for Walk is shortest. The total sample is (20), so 8 bus riders represent (8/20=40\%\).
+For a transportation survey with Bus \(8\), Car \(5\), Walk \(3\), and Bicycle \(4\), the bar for Bus is tallest and the bar for Walk is shortest. The total sample is \(20\), so 8 bus riders represent \(8/20=40\%\).
 
 ### Mistake or confusion
 
