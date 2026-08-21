@@ -50,7 +50,6 @@ Use this page as the reading index. The directory below lists every published le
 ## Reference library
 
 - [Zumdahl Chemistry 9th Edition textbook]({{ '/resources/Zumdahl Chemistry 9th c2014 txtbk.pdf' | replace: ' ', '%20' | relative_url }})：化学学习路线使用的主要教材。
-- [Conceptual Physics 12th Edition textbook]({{ '/resources/Conceptual Physics (12th Edition, 2014).pdf' | replace: ' ', '%20' | relative_url }})：物理学习路线使用的参考教材。
 
 ## Vault notes
 
