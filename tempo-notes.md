@@ -1,178 +1,58 @@
-The checklist is removed from the journal and listed directly below. The journal change synced to GitHub in commit `a9084b0`.
+---
+layout: default
+title: Biology Terms — Natural Systems and Ecology
+permalink: /biology/natural-systems-terms/
+section: Biology
+summary: A quick glossary for the biology journal's first lesson on natural systems, ecology, Earth systems, and energy flow.
+---
 
-This list follows Chapter 1 of the Zumdahl textbook: :codex-file-citation{path="/Users/mac/Documents/obsidian-vault/01-learning/PHC/resources/Zumdahl Chemistry 9th c2014 txtbk.pdf" purpose="source"}
+# Biology Terms — Natural Systems and Ecology
 
-## 1.1 Chemistry: An Overview
+Here are the Chinese biology terms:
 
-- Chemistry
-- Matter
-- Atoms
-- Molecules
-- Chemical change
-- Properties of substances
-- Macroscopic observations
-- Microscopic explanations
+### Core organization
 
-## 1.2 The Scientific Method
+| English | Chinese |
+|---|---|
+| Organism | 生物；生物体 |
+| Species | 物种 |
+| Population | 种群 |
+| Community | 群落 |
+| Ecosystem | 生态系统 |
+| Biome | 生物群系 |
+| Biosphere | 生物圈 |
 
-- Scientific method
-- Observation
-- Qualitative observation
-- Quantitative observation
-- Measurement
-- Hypothesis
-- Experiment
-- Evidence
-- Prediction
-- Theory
-- Scientific model
-- Natural law
-- Law of conservation of mass
-- Difference between a scientific law and theory
-- Revising models using new evidence
+### Environmental factors
 
-## 1.3 Units of Measurement
+| English | Chinese |
+|---|---|
+| Biotic factor | 生物因素 |
+| Abiotic factor | 非生物因素 |
+| Habitat | 栖息地 |
+| Niche | 生态位 |
+| Interaction | 相互作用 |
 
-- SI system
-- Fundamental/base unit
-- Derived unit
-- Mass
-- Weight
-- Length
-- Time
-- Temperature
-- Electric current
-- Amount of substance
-- Luminous intensity
-- Volume
-- Liter (L)
-- Milliliter (mL)
-- Cubic centimeter (cm³)
-- Unit symbol
-- Metric prefix
-- Kilo-
-- Centi-
-- Milli-
-- Micro-
-- Nano-
-- Exponential notation
-- Scientific notation
-- Exact number
-- Difference between mass and weight
+### Earth systems and ecology
 
-## 1.4 Uncertainty in Measurement
+| English | Chinese |
+|---|---|
+| Atmosphere | 大气层；大气圈 |
+| Hydrosphere | 水圈 |
+| Geosphere | 地圈；岩石圈 |
+| Climate | 气候 |
+| Biodiversity | 生物多样性 |
+| Producer | 生产者 |
+| Consumer | 消费者 |
+| Decomposer | 分解者 |
+| Food web | 食物网 |
+| Energy flow | 能量流动 |
+| Matter cycling | 物质循环 |
 
-- Measured value
-- Uncertainty
-- Certain digits
-- Uncertain digit
-- Estimated digit
-- Instrument precision
-- Instrument resolution
-- Significant figures
-- Accuracy
-- Precision
-- Random error
-- Systematic error
-- Meniscus
-- Reading a liquid level
-- Difference between accuracy and precision
-- Why an instrument limits the reported result
+The key distinctions are:
 
-## 1.5 Significant Figures and Calculations
+- **Community（群落）** = living populations only
+- **Ecosystem（生态系统）** = community + nonliving environment
+- **Biome（生物群系）** = large climate region
+- **Biosphere（生物圈）** = all regions where life exists
 
-- Significant-figure rules
-- Nonzero digits
-- Leading zeros
-- Captive zeros
-- Trailing zeros
-- Exact numbers
-- Rounding
-- Guard digits
-- Addition/subtraction decimal-place rule
-- Multiplication/division significant-figure rule
-- Uncertainty propagation
-
-## 1.6 Learning to Solve Problems Systematically
-
-- Goal or target quantity
-- Known quantity
-- Unknown quantity
-- Equation
-- Relationship between quantities
-- Unit check
-- Estimate
-- Reasonableness check
-- Organized problem-solving sequence
-- Chemically meaningful answer
-
-## 1.7 Dimensional Analysis
-
-- Unit factor
-- Conversion factor
-- Unit-factor method
-- Dimensional analysis
-- Unit cancellation
-- Converting mass units
-- Converting length units
-- Converting volume units
-- Converting temperature units
-- Using units to guide and check calculations
-
-## 1.8 Temperature
-
-- Temperature
-- Celsius scale (°C)
-- Fahrenheit scale (°F)
-- Kelvin scale (K)
-- Absolute zero
-- Temperature interval
-- Celsius–Fahrenheit conversion
-- Celsius–Kelvin conversion
-- Effect of temperature on density
-- Matching the sample temperature with the reference density
-
-## 1.9 Density
-
-- Density
-- Mass per unit volume
-- Liquid density
-- Reference density
-- Accepted density
-- Density as a physical-property identification tag
-- Density equation
-- g/mL
-- g/cm³
-- Relationship between mL and cm³
-- Calculating mass from density
-- Calculating volume from density
-- Why density supports, but does not prove, identity
-
-## 1.10 Classification of Matter
-
-- Classification of matter
-- Solid
-- Liquid
-- Gas
-- State of matter
-- Pure substance
-- Mixture
-- Homogeneous mixture
-- Heterogeneous mixture
-- Solution
-- Element
-- Compound
-- Constant composition
-- Physical property
-- Physical change
-- Chemical property
-- Chemical change
-- Physical separation
-- Distillation
-- Filtration
-- Chromatography
-- Paper chromatography
-- Stationary phase
-- Mobile phase
-- Volatile substance
-- Separating mixtures before chemical analysis
+These terms support the [Biology Learning Journal]({{ '/biology/learning-journal/' | relative_url }}), especially the first lesson on the organization of natural systems.

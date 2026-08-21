@@ -3,6 +3,8 @@ layout: default
 title: AP Chemistry Learning Path with Zumdahl 9e
 permalink: /chemistry/learning-path/
 description: A 20-week AP Chemistry self-study plan using Zumdahl Chemistry, Ninth Edition.
+section: Chemistry
+summary: A 20-week self-study route connecting Zumdahl Chemistry, the AP Chemistry framework, experiments, and measurable mastery goals.
 ---
 
 # AP Chemistry Learning Path with Zumdahl 9e

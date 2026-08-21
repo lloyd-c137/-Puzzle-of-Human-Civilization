@@ -2,6 +2,8 @@
 layout: default
 title: Chemical Foundations Learning Journey
 permalink: /chemistry/chemical-foundations-journey/
+section: Chemistry
+summary: A living study plan for measurement, SI units, uncertainty, precision, density, matter, and the Liquid Type Test Experiment.
 ---
 
 # Chemical Foundations — Learning Journey

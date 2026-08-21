@@ -2,6 +2,8 @@
 layout: default
 title: Cycle 1 Chemistry Journal
 permalink: /chemistry/cycle-1/
+section: Chemistry
+summary: The first chemistry journal entry, including the selected learning route, interest topics, and proposed experiments.
 ---
 
 我选 路径 2　高阶化学（Zumdahl _Chemistry_）

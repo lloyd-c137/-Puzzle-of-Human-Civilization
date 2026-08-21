@@ -31,6 +31,45 @@ h1 { margin-top: 0; font-size: clamp(2rem, 5vw, 3rem); }
 h2 { margin-top: 2.4em; padding-bottom: .35em; border-bottom: 1px solid var(--line); }
 h3 { margin-top: 1.8em; }
 .breadcrumb { margin-top: 0; color: var(--muted); font-size: .9rem; }
+.content article > h1 + p { max-width: 72ch; }
+.subject-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 24px 0 8px;
+}
+.subject-jump a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  background: var(--accent-soft);
+  text-decoration: none;
+}
+.subject-jump a:hover { border-color: var(--accent); color: var(--accent); }
+.subject-jump span { color: var(--muted); font-size: .86rem; }
+.directory-section { scroll-margin-top: 24px; }
+.directory-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+}
+.directory-heading h2 { margin-bottom: 0; }
+.directory-count { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.directory-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 28px;
+  padding: 0;
+  list-style: none;
+}
+.directory-list li { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.directory-list a { font-weight: 700; text-decoration: none; }
+.directory-list p { margin: 4px 0 0; color: var(--muted); font-size: .94rem; line-height: 1.6; }
 blockquote { margin-left: 0; padding: .6em 1em; border-left: 4px solid var(--accent); background: var(--accent-soft); }
 .math-display { margin: 1.25em 0; overflow-x: auto; }
 code { padding: .15em .35em; border-radius: 4px; background: #f0f3ed; }
@@ -45,4 +84,6 @@ img { max-width: 100%; height: auto; }
   .header-inner { align-items: flex-start; flex-direction: column; padding: 14px 0; }
   .content { padding-top: 20px; }
   article { padding: 24px 18px; }
+  .directory-list { grid-template-columns: 1fr; }
+  .directory-heading { align-items: flex-start; flex-direction: column; gap: 0; }
 }

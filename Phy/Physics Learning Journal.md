@@ -2,6 +2,8 @@
 layout: default
 title: Physics Learning Journal
 permalink: /physics/learning-journal/
+section: Physics
+summary: A conceptual physics journal connecting measurement, astronomy, time, evidence, energy, and technology.
 ---
 
 我选 **中阶物理路径（Conceptual Physics）**

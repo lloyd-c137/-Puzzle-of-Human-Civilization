@@ -2,6 +2,8 @@
 layout: default
 title: Time and Space
 permalink: /physics/time-and-space/
+section: Physics
+summary: A history-of-ideas note on how observation, periodicity, calendars, and instruments shaped the human concept of time.
 ---
 
 # Time and Space

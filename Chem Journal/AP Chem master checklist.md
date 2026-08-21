@@ -2,6 +2,8 @@
 layout: default
 title: AP Chemistry Master Checklist
 permalink: /chemistry/ap-chemistry/
+section: Chemistry
+summary: A complete AP Chemistry checklist covering the nine units, science practices, experiments, formulas, and exam preparation.
 ---
 
 If by **A*** you mean “top grade in your AP Chemistry class and ideally a **5 on the AP exam**,” then we can build a precise mastery checklist. AP itself reports exam scores from **1 to 5**, rather than A*–F grades. Tiny naming inconvenience, because apparently education systems needed several incompatible ways to say “did well.” ([AP 学生](https://apstudents.collegeboard.org/about-ap-scores/score-distributions/ap-chemistry?utm_source=chatgpt.com "Past AP Chemistry Score Distributions"))

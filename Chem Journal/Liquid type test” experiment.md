@@ -2,6 +2,8 @@
 layout: default
 title: Liquid Type Test Experiment
 permalink: /chemistry/liquid-type-test/
+section: Chemistry
+summary: A safety-first density experiment for comparing a supervised classroom sample with candidate liquids.
 ---
 
 # Liquid Type Test Experiment
