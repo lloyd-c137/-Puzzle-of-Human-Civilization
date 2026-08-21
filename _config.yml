@@ -14,5 +14,6 @@ exclude:
   - .github/
   - scripts/
   - SYNC.md
+  - "Chem Journal/Liquid Type Test Interactive Lab.md"
   - tmp/
   - vendor/
