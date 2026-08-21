@@ -2,6 +2,7 @@
 layout: default
 title: Liquid Type Test Interactive Lab
 permalink: /chemistry/liquid-type-test-lab/
+published: false
 section: Chemistry
 description: A staged, safety-first SQLite-backed workflow for the Liquid Type Test Experiment.
 stylesheet: liquid-test-lab
